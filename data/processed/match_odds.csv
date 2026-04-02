@@ -1,0 +1,360 @@
+year,round,home_team,away_team,venue,total_score_close
+2020,4,Richmond,St Kilda,Docklands,121.5
+2020,6,Brisbane,Geelong,S.C.G.,121.5
+2020,6,Brisbane,Geelong,S.C.G.,121.5
+2020,10,Brisbane,Richmond,Carrara,117.5
+2020,12,Port Adelaide,Geelong,Carrara,114.5
+2020,17,Richmond,Geelong,Carrara,105.5
+2020,18,Geelong,Port Adelaide,Adelaide Oval,122.5
+2020,18,Richmond,Brisbane,Gabba,123.5
+2020,18,St Kilda,Richmond,Carrara,127.5
+2020,18,Geelong,Brisbane,Gabba,127.5
+2020,18,Geelong,Richmond,Gabba,117.5
+2021,1,Hawthorn,Essendon,Docklands,174.5
+2021,2,Collingwood,Carlton,M.C.G.,148.5
+2021,2,Collingwood,Carlton,M.C.G.,148.5
+2021,2,Brisbane,Geelong,Kardinia Park,161.5
+2021,2,North Melbourne,Gold Coast,Carrara,157.5
+2021,2,Richmond,Hawthorn,M.C.G.,163.5
+2021,2,West Coast,Western Bulldogs,Docklands,146.5
+2021,3,Brisbane,Collingwood,Docklands,160.5
+2021,3,Brisbane,Collingwood,Docklands,160.5
+2021,3,Western Bulldogs,North Melbourne,Docklands,163.5
+2021,3,Fremantle,Carlton,Docklands,150.5
+2021,3,Melbourne,GWS Giants,Manuka Oval,154.5
+2021,4,Essendon,Sydney,S.C.G.,161.5
+2021,4,Essendon,Sydney,S.C.G.,161.5
+2021,4,Brisbane,Western Bulldogs,Eureka Stadium,163.5
+2021,4,West Coast,St Kilda,Docklands,154.5
+2021,4,Carlton,Gold Coast,Carrara,165.5
+2021,4,Adelaide,North Melbourne,Docklands,162.5
+2021,4,Geelong,Melbourne,M.C.G.,145.5
+2021,4,Hawthorn,Fremantle,Perth Stadium,150.5
+2021,5,Richmond,St Kilda,Docklands,152.5
+2021,5,Richmond,St Kilda,Docklands,152.5
+2021,5,Collingwood,West Coast,Perth Stadium,144.5
+2021,5,Gold Coast,Western Bulldogs,Docklands,153.5
+2021,5,GWS Giants,Sydney,S.C.G.,147.5
+2021,5,Port Adelaide,Carlton,M.C.G.,162.5
+2021,5,Melbourne,Hawthorn,M.C.G.,139.5
+2021,5,North Melbourne,Geelong,Kardinia Park,153.5
+2021,6,Sydney,Gold Coast,Carrara,163.5
+2021,6,Adelaide,Hawthorn,York Park,159.5
+2021,6,Essendon,Collingwood,M.C.G.,165.5
+2021,6,St Kilda,Port Adelaide,Adelaide Oval,151.5
+2021,7,Fremantle,West Coast,Perth Stadium,156.5
+2021,8,Geelong,Richmond,M.C.G.,148.5
+2021,8,Geelong,Richmond,M.C.G.,148.5
+2021,8,Essendon,GWS Giants,Sydney Showground,159.5
+2021,8,Adelaide,Port Adelaide,Adelaide Oval,155.5
+2021,8,Fremantle,Brisbane,Gabba,151.5
+2021,9,Geelong,St Kilda,Docklands,155.5
+2021,9,Geelong,St Kilda,Docklands,155.5
+2021,9,Brisbane,Gold Coast,Carrara,161.5
+2021,9,GWS Giants,Richmond,Docklands,158.5
+2021,9,Western Bulldogs,Port Adelaide,Adelaide Oval,157.5
+2021,9,Adelaide,West Coast,Perth Stadium,153.5
+2021,10,Richmond,Brisbane,Gabba,150.5
+2021,10,Richmond,Brisbane,Gabba,150.5
+2021,10,Melbourne,Adelaide,Adelaide Oval,156.5
+2021,10,Sydney,Fremantle,Perth Stadium,162.5
+2021,10,Port Adelaide,Collingwood,M.C.G.,150.5
+2021,10,North Melbourne,Essendon,Docklands,161.5
+2021,11,Melbourne,Western Bulldogs,Docklands,155.5
+2021,11,Melbourne,Western Bulldogs,Docklands,155.5
+2021,12,St Kilda,Sydney,S.C.G.,165.5
+2021,14,Carlton,GWS Giants,Sydney Showground,168.5
+2021,14,Essendon,Hawthorn,York Park,170.5
+2021,15,Geelong,Brisbane,Gabba,172.5
+2021,15,Geelong,Brisbane,Gabba,172.5
+2021,15,St Kilda,Richmond,M.C.G.,173.5
+2021,15,Gold Coast,North Melbourne,Bellerive Oval,165.5
+2021,15,Western Bulldogs,West Coast,Perth Stadium,171.5
+2021,16,GWS Giants,Melbourne,M.C.G.,165.5
+2021,16,Carlton,Fremantle,M.C.G.,166.5
+2021,16,North Melbourne,Western Bulldogs,Docklands,178.5
+2021,17,Fremantle,Hawthorn,York Park,147.5
+2021,18,Brisbane,Richmond,Carrara,157.5
+2021,18,Port Adelaide,St Kilda,Docklands,165.5
+2021,18,Western Bulldogs,Gold Coast,Carrara,168.5
+2021,18,Hawthorn,Melbourne,M.C.G.,163.5
+2021,18,Essendon,North Melbourne,Carrara,174.5
+2021,18,Carlton,Collingwood,M.C.G.,162.5
+2021,18,West Coast,Adelaide,Adelaide Oval,171.5
+2021,18,Sydney,GWS Giants,Carrara,155.5
+2021,19,Collingwood,Port Adelaide,Docklands,155.5
+2021,19,Collingwood,Port Adelaide,Docklands,155.5
+2021,19,Gold Coast,Brisbane,Gabba,160.5
+2021,19,St Kilda,West Coast,Perth Stadium,173.5
+2021,19,Western Bulldogs,Melbourne,M.C.G.,163.5
+2021,19,Hawthorn,Adelaide,Docklands,170.5
+2021,19,Fremantle,Sydney,Carrara,131.5
+2021,19,Richmond,Geelong,M.C.G.,153.5
+2021,19,GWS Giants,Essendon,Carrara,171.5
+2021,20,Geelong,North Melbourne,Bellerive Oval,166.5
+2021,20,West Coast,Collingwood,M.C.G.,156.5
+2021,20,Sydney,Essendon,M.C.G.,179.5
+2021,21,Gold Coast,Carlton,Docklands,166.5
+2021,21,Port Adelaide,Adelaide,Adelaide Oval,159.5
+2021,21,Sydney,St Kilda,Docklands,168.5
+2021,21,Brisbane,Fremantle,Perth Stadium,166.5
+2021,22,Richmond,GWS Giants,Docklands,159.5
+2021,22,Richmond,GWS Giants,Docklands,159.5
+2021,22,Carlton,Port Adelaide,Adelaide Oval,163.5
+2021,22,St Kilda,Geelong,Kardinia Park,169.5
+2021,22,Collingwood,Brisbane,Gabba,171.5
+2021,22,Adelaide,Melbourne,M.C.G.,164.5
+2021,22,West Coast,Fremantle,Perth Stadium,161.5
+2021,23,Port Adelaide,Western Bulldogs,Docklands,151.5
+2021,23,Port Adelaide,Western Bulldogs,Docklands,151.5
+2021,23,Hawthorn,Richmond,M.C.G.,173.5
+2021,23,Gold Coast,Sydney,Docklands,171.5
+2021,23,Melbourne,Geelong,Kardinia Park,149.5
+2021,23,GWS Giants,Carlton,Docklands,149.5
+2021,23,Collingwood,Essendon,M.C.G.,163.5
+2021,23,North Melbourne,Adelaide,Adelaide Oval,178.5
+2021,23,GWS Giants,Sydney,York Park,147.5
+2021,23,Western Bulldogs,Brisbane,Gabba,164.5
+2021,23,Geelong,Melbourne,Perth Stadium,145.5
+2021,23,Western Bulldogs,Port Adelaide,Adelaide Oval,157.5
+2021,23,Western Bulldogs,Melbourne,Perth Stadium,163.5
+2022,1,Western Bulldogs,Melbourne,M.C.G.,164.5
+2022,1,Western Bulldogs,Melbourne,M.C.G.,164.5
+2022,1,Richmond,Carlton,M.C.G.,160.5
+2022,1,Sydney,GWS Giants,Stadium Australia,171.5
+2022,1,North Melbourne,Hawthorn,M.C.G.,171.5
+2022,1,Gold Coast,West Coast,Perth Stadium,172.5
+2022,2,Geelong,Sydney,S.C.G.,164.5
+2022,2,Adelaide,Collingwood,M.C.G.,152.5
+2022,2,Brisbane,Essendon,Docklands,182.5
+2022,2,St Kilda,Fremantle,Perth Stadium,157.5
+2022,3,Sydney,Western Bulldogs,Docklands,164.5
+2022,3,Sydney,Western Bulldogs,Docklands,164.5
+2022,3,Port Adelaide,Adelaide,Adelaide Oval,164.5
+2022,3,Geelong,Collingwood,M.C.G.,161.5
+2022,3,Fremantle,West Coast,Perth Stadium,152.5
+2022,4,Melbourne,Port Adelaide,Adelaide Oval,159.5
+2022,4,Melbourne,Port Adelaide,Adelaide Oval,159.5
+2022,4,North Melbourne,Sydney,S.C.G.,176.5
+2022,4,GWS Giants,Fremantle,Perth Stadium,149.5
+2022,4,St Kilda,Hawthorn,M.C.G.,171.5
+2022,6,Carlton,Fremantle,Perth Stadium,162.5
+2022,6,Geelong,North Melbourne,Bellerive Oval,155.5
+2022,6,Brisbane,Gold Coast,Carrara,171.5
+2022,6,Collingwood,Essendon,M.C.G.,170.5
+2022,7,Richmond,West Coast,Perth Stadium,172.5
+2022,7,Richmond,West Coast,Perth Stadium,172.5
+2022,7,Gold Coast,Collingwood,M.C.G.,151.5
+2022,8,Adelaide,Carlton,Docklands,160.5
+2022,9,Richmond,Hawthorn,M.C.G.,171.5
+2022,9,Geelong,St Kilda,Docklands,150.5
+2022,9,Essendon,Sydney,S.C.G.,167.5
+2022,9,Carlton,GWS Giants,Sydney Showground,173.5
+2022,10,Port Adelaide,Geelong,Kardinia Park,155.5
+2022,10,Essendon,Richmond,M.C.G.,176.5
+2022,10,Collingwood,Fremantle,Perth Stadium,151.5
+2022,11,GWS Giants,Brisbane,Gabba,172.5
+2022,11,Fremantle,Melbourne,M.C.G.,144.5
+2022,11,Hawthorn,Gold Coast,Marrara Oval,167.5
+2022,11,Carlton,Collingwood,M.C.G.,165.5
+2022,11,Essendon,Port Adelaide,Adelaide Oval,173.5
+2022,12,Geelong,Western Bulldogs,Docklands,163.5
+2022,12,Geelong,Western Bulldogs,Docklands,163.5
+2022,12,West Coast,Adelaide,Adelaide Oval,167.5
+2022,12,North Melbourne,Gold Coast,Marrara Oval,182.5
+2022,13,Port Adelaide,Richmond,M.C.G.,150.5
+2022,13,Port Adelaide,Richmond,M.C.G.,150.5
+2022,13,St Kilda,Brisbane,Gabba,170.5
+2022,13,Melbourne,Collingwood,M.C.G.,153.5
+2022,14,Carlton,Richmond,M.C.G.,165.5
+2022,14,Carlton,Richmond,M.C.G.,165.5
+2022,14,Geelong,West Coast,Perth Stadium,164.5
+2022,14,Western Bulldogs,GWS Giants,Sydney Showground,175.5
+2022,15,Brisbane,Melbourne,M.C.G.,170.5
+2022,15,Brisbane,Melbourne,M.C.G.,170.5
+2022,15,Hawthorn,Western Bulldogs,Docklands,171.5
+2022,15,Fremantle,Carlton,Docklands,158.5
+2022,15,St Kilda,Sydney,S.C.G.,173.5
+2022,15,Adelaide,North Melbourne,Bellerive Oval,161.5
+2022,16,Sydney,Essendon,M.C.G.,169.5
+2022,16,Collingwood,Gold Coast,Carrara,163.5
+2022,16,North Melbourne,Geelong,Kardinia Park,167.5
+2022,16,West Coast,Richmond,M.C.G.,162.5
+2022,17,Western Bulldogs,Sydney,S.C.G.,174.5
+2022,17,Fremantle,St Kilda,Docklands,164.5
+2022,17,Essendon,Brisbane,Gabba,179.5
+2022,18,Collingwood,Adelaide,Adelaide Oval,168.5
+2022,18,Brisbane,GWS Giants,Manuka Oval,179.5
+2022,18,Port Adelaide,Melbourne,Traeger Park,163.5
+2022,19,Hawthorn,North Melbourne,Bellerive Oval,164.5
+2022,19,Geelong,Port Adelaide,Adelaide Oval,159.5
+2022,19,Gold Coast,Brisbane,Gabba,164.5
+2022,19,Melbourne,Western Bulldogs,Docklands,162.5
+2022,19,GWS Giants,Carlton,Docklands,165.5
+2022,19,Essendon,Collingwood,M.C.G.,172.5
+2022,20,Melbourne,Fremantle,Perth Stadium,149.5
+2022,20,Melbourne,Fremantle,Perth Stadium,149.5
+2022,20,GWS Giants,Sydney,S.C.G.,160.5
+2022,20,Hawthorn,St Kilda,Docklands,164.5
+2022,20,Western Bulldogs,Geelong,Kardinia Park,166.5
+2022,20,Carlton,Adelaide,Adelaide Oval,174.5
+2022,20,West Coast,Gold Coast,Carrara,161.5
+2022,20,Brisbane,Richmond,M.C.G.,176.5
+2022,21,Collingwood,Melbourne,M.C.G.,160.5
+2022,21,Collingwood,Melbourne,M.C.G.,160.5
+2022,21,Gold Coast,Hawthorn,York Park,163.5
+2022,21,Fremantle,Western Bulldogs,Docklands,154.5
+2022,21,St Kilda,Geelong,Kardinia Park,164.5
+2022,21,Richmond,Port Adelaide,Adelaide Oval,155.5
+2022,21,Sydney,North Melbourne,Docklands,159.5
+2022,21,Adelaide,West Coast,Perth Stadium,148.5
+2022,22,Brisbane,St Kilda,Docklands,171.5
+2022,22,Brisbane,St Kilda,Docklands,171.5
+2022,22,GWS Giants,Western Bulldogs,Docklands,161.5
+2022,22,North Melbourne,Adelaide,Adelaide Oval,159.5
+2022,22,West Coast,Fremantle,Perth Stadium,153.5
+2022,22,Hawthorn,Richmond,M.C.G.,167.5
+2022,22,Port Adelaide,Essendon,Docklands,149.5
+2022,23,Melbourne,Brisbane,Gabba,164.5
+2022,23,Melbourne,Brisbane,Gabba,164.5
+2022,23,Fremantle,GWS Giants,Manuka Oval,157.5
+2022,23,Gold Coast,North Melbourne,Docklands,163.5
+2022,23,West Coast,Geelong,Kardinia Park,154.5
+2022,23,Richmond,Essendon,M.C.G.,174.5
+2022,23,Adelaide,Port Adelaide,Adelaide Oval,159.5
+2022,23,Western Bulldogs,Hawthorn,York Park,179.5
+2022,23,Collingwood,Carlton,M.C.G.,171.5
+2022,23,Sydney,St Kilda,Docklands,161.5
+2022,23,Richmond,Brisbane,Gabba,175.5
+2022,23,Collingwood,Geelong,M.C.G.,163.5
+2022,23,Western Bulldogs,Fremantle,Perth Stadium,165.5
+2022,23,Brisbane,Melbourne,M.C.G.,170.5
+2022,23,Fremantle,Collingwood,M.C.G.,135.5
+2022,23,Sydney,Geelong,M.C.G.,156.5
+2023,1,Collingwood,Geelong,M.C.G.,165.5
+2023,1,West Coast,North Melbourne,Docklands,171.5
+2023,1,Brisbane,Port Adelaide,Adelaide Oval,174.5
+2023,1,Sydney,Gold Coast,Carrara,169.5
+2023,1,Adelaide,GWS Giants,Sydney Showground,172.5
+2023,2,Melbourne,Brisbane,Gabba,161.5
+2023,2,Port Adelaide,Collingwood,M.C.G.,154.5
+2023,3,North Melbourne,Hawthorn,York Park,173.5
+2023,3,Carlton,GWS Giants,Sydney Showground,168.5
+2023,3,Adelaide,Port Adelaide,Adelaide Oval,177.5
+2023,3,Sydney,Melbourne,M.C.G.,160.5
+2023,3,West Coast,Fremantle,Perth Stadium,165.5
+2023,4,Collingwood,Brisbane,Gabba,167.5
+2023,4,Collingwood,Brisbane,Gabba,167.5
+2023,4,Western Bulldogs,Richmond,M.C.G.,170.5
+2023,4,Gold Coast,St Kilda,Docklands,159.5
+2023,4,GWS Giants,Essendon,Docklands,171.5
+2023,5,Western Bulldogs,Port Adelaide,Adelaide Oval,167.5
+2023,6,Western Bulldogs,Fremantle,Perth Stadium,165.5
+2023,6,Western Bulldogs,Fremantle,Perth Stadium,165.5
+2023,6,Sydney,Geelong,Kardinia Park,170.5
+2023,6,St Kilda,Carlton,Docklands,162.5
+2023,6,North Melbourne,Gold Coast,Carrara,173.5
+2023,6,Richmond,Melbourne,M.C.G.,167.5
+2023,6,Essendon,Collingwood,M.C.G.,172.5
+2023,7,Fremantle,Brisbane,Gabba,166.5
+2023,7,GWS Giants,Sydney,S.C.G.,158.5
+2023,7,Hawthorn,Western Bulldogs,Docklands,166.5
+2023,7,North Melbourne,Melbourne,M.C.G.,173.5
+2023,7,Carlton,West Coast,Perth Stadium,175.5
+2023,7,Geelong,Essendon,M.C.G.,165.5
+2023,7,Collingwood,Adelaide,Adelaide Oval,167.5
+2023,8,Brisbane,Carlton,Docklands,170.5
+2023,8,Brisbane,Carlton,Docklands,170.5
+2023,8,West Coast,Richmond,M.C.G.,174.5
+2023,8,Hawthorn,Fremantle,Perth Stadium,168.5
+2023,8,Western Bulldogs,GWS Giants,Manuka Oval,157.5
+2023,8,Essendon,Port Adelaide,Adelaide Oval,167.5
+2023,8,St Kilda,North Melbourne,Docklands,161.5
+2023,9,Fremantle,Sydney,S.C.G.,162.5
+2023,9,Melbourne,Hawthorn,M.C.G.,167.5
+2023,10,Geelong,Fremantle,Perth Stadium,168.5
+2023,10,Gold Coast,Brisbane,Gabba,167.5
+2023,10,Collingwood,Carlton,M.C.G.,159.5
+2023,10,St Kilda,GWS Giants,Sydney Showground,155.5
+2023,11,Carlton,Sydney,S.C.G.,150.5
+2023,11,Carlton,Sydney,S.C.G.,150.5
+2023,11,Hawthorn,St Kilda,Docklands,160.5
+2023,11,Essendon,West Coast,Perth Stadium,182.5
+2023,11,Port Adelaide,Richmond,M.C.G.,178.5
+2023,11,Brisbane,Adelaide,Adelaide Oval,176.5
+2023,12,Carlton,Melbourne,M.C.G.,160.5
+2023,12,Carlton,Melbourne,M.C.G.,160.5
+2023,12,Geelong,Western Bulldogs,Docklands,165.5
+2023,12,Adelaide,Gold Coast,Marrara Oval,174.5
+2023,12,North Melbourne,Essendon,Docklands,175.5
+2023,13,Port Adelaide,Western Bulldogs,Docklands,146.5
+2023,13,West Coast,Adelaide,Adelaide Oval,178.5
+2023,13,Collingwood,Melbourne,M.C.G.,149.5
+2023,14,Geelong,Port Adelaide,Adelaide Oval,163.5
+2023,14,Geelong,Port Adelaide,Adelaide Oval,163.5
+2023,14,St Kilda,Richmond,M.C.G.,164.5
+2023,14,Gold Coast,Carlton,M.C.G.,166.5
+2023,15,Brisbane,St Kilda,Docklands,167.5
+2023,15,Adelaide,Collingwood,M.C.G.,171.5
+2023,16,Geelong,Sydney,S.C.G.,170.5
+2023,16,Fremantle,Western Bulldogs,Docklands,164.5
+2023,16,Port Adelaide,Essendon,M.C.G.,173.5
+2023,18,Brisbane,Melbourne,M.C.G.,175.5
+2023,18,St Kilda,Gold Coast,Carrara,158.5
+2023,18,Essendon,Geelong,Kardinia Park,174.5
+2023,18,GWS Giants,Adelaide,Adelaide Oval,172.5
+2023,18,Hawthorn,North Melbourne,Docklands,169.5
+2023,18,Richmond,West Coast,Perth Stadium,165.5
+2023,19,West Coast,Carlton,Docklands,174.5
+2023,19,Sydney,Fremantle,Perth Stadium,166.5
+2023,19,Collingwood,Port Adelaide,Adelaide Oval,174.5
+2023,19,North Melbourne,St Kilda,Docklands,166.5
+2023,20,Carlton,Collingwood,M.C.G.,164.5
+2023,20,Carlton,Collingwood,M.C.G.,164.5
+2023,20,GWS Giants,Western Bulldogs,Eureka Stadium,166.5
+2023,20,Fremantle,Geelong,Kardinia Park,173.5
+2023,20,Brisbane,Gold Coast,Carrara,176.5
+2023,20,Port Adelaide,Adelaide,Adelaide Oval,173.5
+2023,20,St Kilda,Hawthorn,Docklands,156.5
+2023,20,Melbourne,Richmond,M.C.G.,175.5
+2023,20,North Melbourne,West Coast,Perth Stadium,174.5
+2023,21,Richmond,Western Bulldogs,Docklands,158.5
+2023,21,Richmond,Western Bulldogs,Docklands,158.5
+2023,21,West Coast,Essendon,Docklands,171.5
+2023,21,Gold Coast,Adelaide,Adelaide Oval,163.5
+2023,21,Port Adelaide,Geelong,Kardinia Park,169.5
+2023,21,Sydney,GWS Giants,Sydney Showground,155.5
+2023,21,Melbourne,North Melbourne,Bellerive Oval,173.5
+2023,21,Carlton,St Kilda,Docklands,162.5
+2023,21,Brisbane,Fremantle,Perth Stadium,175.5
+2023,22,Geelong,Collingwood,M.C.G.,164.5
+2023,22,Geelong,Collingwood,M.C.G.,164.5
+2023,22,Essendon,North Melbourne,Docklands,174.5
+2023,22,Gold Coast,Sydney,S.C.G.,166.5
+2023,22,Adelaide,Brisbane,Gabba,172.5
+2023,22,Melbourne,Carlton,M.C.G.,153.5
+2023,22,Fremantle,West Coast,Perth Stadium,160.5
+2023,22,Western Bulldogs,Hawthorn,York Park,169.5
+2023,22,Richmond,St Kilda,Docklands,152.5
+2023,23,Brisbane,Collingwood,Docklands,174.5
+2023,23,Brisbane,Collingwood,Docklands,174.5
+2023,23,Carlton,Gold Coast,Carrara,161.5
+2023,23,Essendon,GWS Giants,Sydney Showground,175.5
+2023,23,Hawthorn,Melbourne,M.C.G.,172.5
+2023,24,Collingwood,Essendon,M.C.G.,174.5
+2023,24,Collingwood,Essendon,M.C.G.,174.5
+2023,24,Fremantle,Hawthorn,M.C.G.,165.5
+2023,24,Gold Coast,North Melbourne,Bellerive Oval,169.5
+2023,24,St Kilda,Brisbane,Gabba,167.5
+2023,24,Western Bulldogs,Geelong,Kardinia Park,168.5
+2023,24,Adelaide,West Coast,Perth Stadium,178.5
+2023,24,Richmond,Port Adelaide,Adelaide Oval,164.5
+2023,24,Melbourne,Sydney,S.C.G.,168.5
+2023,24,GWS Giants,Carlton,Docklands,163.5
+2023,24,Melbourne,Collingwood,M.C.G.,162.5
+2023,24,Sydney,Carlton,M.C.G.,163.5
+2023,24,GWS Giants,St Kilda,M.C.G.,163.5
+2023,24,Port Adelaide,Brisbane,Gabba,171.5
+2023,24,Carlton,Melbourne,M.C.G.,160.5
+2023,24,Carlton,Brisbane,Gabba,175.5
+2023,24,Brisbane,Collingwood,M.C.G.,174.5

@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>ABM Performance Dashboard</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 40px; }
+    h1, h2 { color: #2c3e50; }
+    table { border-collapse: collapse; margin: 20px 0; }
+    th, td { border: 1px solid #bdc3c7; padding: 8px 12px; text-align: left; }
+    th { background-color: #34495e; color: white; }
+    tr:nth-child(even) { background-color: #ecf0f1; }
+    .metric { font-weight: bold; }
+  </style>
+</head>
+<body>
+  <h1>AFL Betting Model — Performance Dashboard</h1>
+  <p>Generated: 2026-04-01 21:01</p>
+<h2>Ensemble Model Performance (Validation)</h2><table class="dataframe data-table">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>stacking_auc</th>
+      <th>stacking_pr</th>
+      <th>voting_auc</th>
+      <th>voting_pr</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>over_195</th>
+      <td>0.990670</td>
+      <td>0.849945</td>
+      <td>0.990788</td>
+      <td>0.850073</td>
+    </tr>
+    <tr>
+      <th>over_245</th>
+      <td>0.992078</td>
+      <td>0.691292</td>
+      <td>0.992083</td>
+      <td>0.689104</td>
+    </tr>
+    <tr>
+      <th>over_295</th>
+      <td>0.992701</td>
+      <td>0.360682</td>
+      <td>0.992301</td>
+      <td>0.345705</td>
+    </tr>
+  </tbody>
+</table><h2>Calibration Impact</h2><table class="dataframe data-table">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>base_auc</th>
+      <th>base_brier</th>
+      <th>calibrated_auc</th>
+      <th>calibrated_brier</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>over_195</th>
+      <td>0.992843</td>
+      <td>0.031828</td>
+      <td>0.992843</td>
+      <td>0.016324</td>
+    </tr>
+    <tr>
+      <th>over_245</th>
+      <td>0.993916</td>
+      <td>0.025600</td>
+      <td>0.993916</td>
+      <td>0.009203</td>
+    </tr>
+    <tr>
+      <th>over_295</th>
+      <td>0.994348</td>
+      <td>0.016597</td>
+      <td>0.994348</td>
+      <td>0.004058</td>
+    </tr>
+  </tbody>
+</table><p><i>Backtest results not available yet.</i></p>
+  <h2>Notes</h2>
+  <ul>
+    <li>Models trained on historical data up to 2025, validated on 2024-2025.</li>
+    <li>Calibration ensures predicted probabilities reflect true frequencies (Brier score).</li>
+    <li>Backtest uses decimal odds and Kelly Criterion for fractional bet sizing.</li>
+    <li>Simulated bankroll starts at $10,000 with 5% max bet cap.</li>
+  </ul>
+</body>
+</html>

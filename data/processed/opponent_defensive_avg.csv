@@ -1,0 +1,1633 @@
+year,team,opponent,opponent_defensive_avg
+2020,Adelaide,Sydney,13.50997150997151
+2020,Adelaide,Port Adelaide,12.836363636363636
+2020,Adelaide,Gold Coast,13.975935828877006
+2020,Adelaide,North Melbourne,13.970588235294118
+2020,Adelaide,Brisbane Lions,12.97841726618705
+2020,Adelaide,Fremantle,13.33030303030303
+2020,Adelaide,West Coast,13.91161616161616
+2020,Adelaide,St Kilda,13.318181818181818
+2020,Adelaide,Essendon,13.8125
+2020,Adelaide,Melbourne,13.963636363636363
+2020,Adelaide,Collingwood,13.371702637889689
+2020,Adelaide,Western Bulldogs,13.297727272727272
+2020,Adelaide,Geelong,12.783653846153847
+2020,Adelaide,Hawthorn,14.474747474747474
+2020,Adelaide,Greater Western Sydney,12.903743315508022
+2020,Adelaide,Carlton,12.876262626262626
+2020,Adelaide,Richmond,13.900990099009901
+2020,Carlton,Melbourne,13.963636363636363
+2020,Carlton,Geelong,12.783653846153847
+2020,Carlton,Essendon,13.8125
+2020,Carlton,St Kilda,13.318181818181818
+2020,Carlton,Western Bulldogs,13.297727272727272
+2020,Carlton,Port Adelaide,12.836363636363636
+2020,Carlton,North Melbourne,13.970588235294118
+2020,Carlton,Hawthorn,14.474747474747474
+2020,Carlton,West Coast,13.91161616161616
+2020,Carlton,Fremantle,13.33030303030303
+2020,Carlton,Gold Coast,13.975935828877006
+2020,Carlton,Collingwood,13.371702637889689
+2020,Carlton,Greater Western Sydney,12.903743315508022
+2020,Carlton,Adelaide,13.943181818181818
+2020,Carlton,Brisbane Lions,12.97841726618705
+2020,Carlton,Richmond,13.900990099009901
+2020,Carlton,Sydney,13.50997150997151
+2020,Collingwood,Western Bulldogs,13.297727272727272
+2020,Collingwood,Richmond,13.900990099009901
+2020,Collingwood,St Kilda,13.318181818181818
+2020,Collingwood,Greater Western Sydney,12.903743315508022
+2020,Collingwood,Essendon,13.8125
+2020,Collingwood,Hawthorn,14.474747474747474
+2020,Collingwood,Geelong,12.783653846153847
+2020,Collingwood,West Coast,13.91161616161616
+2020,Collingwood,Fremantle,13.33030303030303
+2020,Collingwood,Sydney,13.50997150997151
+2020,Collingwood,Adelaide,13.943181818181818
+2020,Collingwood,Melbourne,13.963636363636363
+2020,Collingwood,North Melbourne,13.970588235294118
+2020,Collingwood,Carlton,12.876262626262626
+2020,Collingwood,Brisbane Lions,12.97841726618705
+2020,Collingwood,Gold Coast,13.975935828877006
+2020,Collingwood,Port Adelaide,12.836363636363636
+2020,Essendon,St Kilda,13.318181818181818
+2020,Essendon,Fremantle,13.33030303030303
+2020,Essendon,Sydney,13.50997150997151
+2020,Essendon,Carlton,12.876262626262626
+2020,Essendon,Adelaide,13.943181818181818
+2020,Essendon,Brisbane Lions,12.97841726618705
+2020,Essendon,Gold Coast,13.975935828877006
+2020,Essendon,Richmond,13.900990099009901
+2020,Essendon,Western Bulldogs,13.297727272727272
+2020,Essendon,Hawthorn,14.474747474747474
+2020,Essendon,West Coast,13.91161616161616
+2020,Essendon,Geelong,12.783653846153847
+2020,Essendon,Port Adelaide,12.836363636363636
+2020,Essendon,Melbourne,13.963636363636363
+2020,Essendon,Greater Western Sydney,12.903743315508022
+2020,Essendon,Collingwood,13.371702637889689
+2020,Essendon,North Melbourne,13.970588235294118
+2020,Fremantle,St Kilda,13.318181818181818
+2020,Fremantle,West Coast,13.91161616161616
+2020,Fremantle,Geelong,12.783653846153847
+2020,Fremantle,Richmond,13.900990099009901
+2020,Fremantle,Melbourne,13.963636363636363
+2020,Fremantle,North Melbourne,13.970588235294118
+2020,Fremantle,Western Bulldogs,13.297727272727272
+2020,Fremantle,Essendon,13.8125
+2020,Fremantle,Brisbane Lions,12.97841726618705
+2020,Fremantle,Port Adelaide,12.836363636363636
+2020,Fremantle,Gold Coast,13.975935828877006
+2020,Fremantle,Adelaide,13.943181818181818
+2020,Fremantle,Hawthorn,14.474747474747474
+2020,Fremantle,Carlton,12.876262626262626
+2020,Fremantle,Sydney,13.50997150997151
+2020,Fremantle,Greater Western Sydney,12.903743315508022
+2020,Fremantle,Collingwood,13.371702637889689
+2020,Geelong,Greater Western Sydney,12.903743315508022
+2020,Geelong,Hawthorn,14.474747474747474
+2020,Geelong,Carlton,12.876262626262626
+2020,Geelong,Melbourne,13.963636363636363
+2020,Geelong,Gold Coast,13.975935828877006
+2020,Geelong,Brisbane Lions,12.97841726618705
+2020,Geelong,Collingwood,13.371702637889689
+2020,Geelong,Sydney,13.50997150997151
+2020,Geelong,Port Adelaide,12.836363636363636
+2020,Geelong,Richmond,13.900990099009901
+2020,Geelong,North Melbourne,13.970588235294118
+2020,Geelong,St Kilda,13.318181818181818
+2020,Geelong,Adelaide,13.943181818181818
+2020,Geelong,Western Bulldogs,13.297727272727272
+2020,Geelong,Essendon,13.8125
+2020,Geelong,Fremantle,13.33030303030303
+2020,Geelong,West Coast,13.91161616161616
+2020,Gold Coast,Port Adelaide,12.836363636363636
+2020,Gold Coast,West Coast,13.91161616161616
+2020,Gold Coast,Adelaide,13.943181818181818
+2020,Gold Coast,Fremantle,13.33030303030303
+2020,Gold Coast,Geelong,12.783653846153847
+2020,Gold Coast,Melbourne,13.963636363636363
+2020,Gold Coast,Sydney,13.50997150997151
+2020,Gold Coast,Western Bulldogs,13.297727272727272
+2020,Gold Coast,Greater Western Sydney,12.903743315508022
+2020,Gold Coast,St Kilda,13.318181818181818
+2020,Gold Coast,Essendon,13.8125
+2020,Gold Coast,Richmond,13.900990099009901
+2020,Gold Coast,Carlton,12.876262626262626
+2020,Gold Coast,North Melbourne,13.970588235294118
+2020,Gold Coast,Brisbane Lions,12.97841726618705
+2020,Gold Coast,Hawthorn,14.474747474747474
+2020,Gold Coast,Collingwood,13.371702637889689
+2020,Hawthorn,Brisbane Lions,12.97841726618705
+2020,Hawthorn,Geelong,12.783653846153847
+2020,Hawthorn,Richmond,13.900990099009901
+2020,Hawthorn,North Melbourne,13.970588235294118
+2020,Hawthorn,Carlton,12.876262626262626
+2020,Hawthorn,Fremantle,13.33030303030303
+2020,Hawthorn,West Coast,13.91161616161616
+2020,Hawthorn,Port Adelaide,12.836363636363636
+2020,Hawthorn,Essendon,13.8125
+2020,Hawthorn,Adelaide,13.943181818181818
+2020,Hawthorn,St Kilda,13.318181818181818
+2020,Hawthorn,Western Bulldogs,13.297727272727272
+2020,Hawthorn,Gold Coast,13.975935828877006
+2020,Hawthorn,Sydney,13.50997150997151
+2020,Hawthorn,Greater Western Sydney,12.903743315508022
+2020,Hawthorn,Melbourne,13.963636363636363
+2020,Hawthorn,Collingwood,13.371702637889689
+2020,Melbourne,Fremantle,13.33030303030303
+2020,Melbourne,Greater Western Sydney,12.903743315508022
+2020,Melbourne,Essendon,13.8125
+2020,Melbourne,West Coast,13.91161616161616
+2020,Melbourne,Carlton,12.876262626262626
+2020,Melbourne,Gold Coast,13.975935828877006
+2020,Melbourne,Hawthorn,14.474747474747474
+2020,Melbourne,Brisbane Lions,12.97841726618705
+2020,Melbourne,Adelaide,13.943181818181818
+2020,Melbourne,Geelong,12.783653846153847
+2020,Melbourne,Richmond,13.900990099009901
+2020,Melbourne,Port Adelaide,12.836363636363636
+2020,Melbourne,North Melbourne,13.970588235294118
+2020,Melbourne,Collingwood,13.371702637889689
+2020,Melbourne,Western Bulldogs,13.297727272727272
+2020,Melbourne,St Kilda,13.318181818181818
+2020,Melbourne,Sydney,13.50997150997151
+2020,North Melbourne,St Kilda,13.318181818181818
+2020,North Melbourne,Sydney,13.50997150997151
+2020,North Melbourne,Hawthorn,14.474747474747474
+2020,North Melbourne,Essendon,13.8125
+2020,North Melbourne,Collingwood,13.371702637889689
+2020,North Melbourne,Gold Coast,13.975935828877006
+2020,North Melbourne,Greater Western Sydney,12.903743315508022
+2020,North Melbourne,Western Bulldogs,13.297727272727272
+2020,North Melbourne,Carlton,12.876262626262626
+2020,North Melbourne,Adelaide,13.943181818181818
+2020,North Melbourne,Geelong,12.783653846153847
+2020,North Melbourne,Melbourne,13.963636363636363
+2020,North Melbourne,Brisbane Lions,12.97841726618705
+2020,North Melbourne,Port Adelaide,12.836363636363636
+2020,North Melbourne,Fremantle,13.33030303030303
+2020,North Melbourne,West Coast,13.91161616161616
+2020,North Melbourne,Richmond,13.900990099009901
+2020,Port Adelaide,Gold Coast,13.975935828877006
+2020,Port Adelaide,Adelaide,13.943181818181818
+2020,Port Adelaide,Fremantle,13.33030303030303
+2020,Port Adelaide,West Coast,13.91161616161616
+2020,Port Adelaide,Brisbane Lions,12.97841726618705
+2020,Port Adelaide,Greater Western Sydney,12.903743315508022
+2020,Port Adelaide,Carlton,12.876262626262626
+2020,Port Adelaide,St Kilda,13.318181818181818
+2020,Port Adelaide,Melbourne,13.963636363636363
+2020,Port Adelaide,Western Bulldogs,13.297727272727272
+2020,Port Adelaide,Richmond,13.900990099009901
+2020,Port Adelaide,Geelong,12.783653846153847
+2020,Port Adelaide,Hawthorn,14.474747474747474
+2020,Port Adelaide,Sydney,13.50997150997151
+2020,Port Adelaide,North Melbourne,13.970588235294118
+2020,Port Adelaide,Essendon,13.8125
+2020,Port Adelaide,Collingwood,13.371702637889689
+2020,Richmond,Melbourne,13.963636363636363
+2020,Richmond,Sydney,13.50997150997151
+2020,Richmond,North Melbourne,13.970588235294118
+2020,Richmond,Greater Western Sydney,12.903743315508022
+2020,Richmond,Western Bulldogs,13.297727272727272
+2020,Richmond,Brisbane Lions,12.97841726618705
+2020,Richmond,Port Adelaide,12.836363636363636
+2020,Richmond,Gold Coast,13.975935828877006
+2020,Richmond,Essendon,13.8125
+2020,Richmond,West Coast,13.91161616161616
+2020,Richmond,Fremantle,13.33030303030303
+2020,Richmond,Geelong,12.783653846153847
+2020,Richmond,Adelaide,13.943181818181818
+2020,Richmond,St Kilda,13.318181818181818
+2020,Richmond,Carlton,12.876262626262626
+2020,Richmond,Collingwood,13.371702637889689
+2020,Richmond,Hawthorn,14.474747474747474
+2020,St Kilda,Hawthorn,14.474747474747474
+2020,St Kilda,Richmond,13.900990099009901
+2020,St Kilda,Carlton,12.876262626262626
+2020,St Kilda,Fremantle,13.33030303030303
+2020,St Kilda,Adelaide,13.943181818181818
+2020,St Kilda,Sydney,13.50997150997151
+2020,St Kilda,Gold Coast,13.975935828877006
+2020,St Kilda,Geelong,12.783653846153847
+2020,St Kilda,Essendon,13.8125
+2020,St Kilda,Brisbane Lions,12.97841726618705
+2020,St Kilda,Melbourne,13.963636363636363
+2020,St Kilda,West Coast,13.91161616161616
+2020,St Kilda,Greater Western Sydney,12.903743315508022
+2020,St Kilda,Western Bulldogs,13.297727272727272
+2020,St Kilda,North Melbourne,13.970588235294118
+2020,St Kilda,Collingwood,13.371702637889689
+2020,St Kilda,Port Adelaide,12.836363636363636
+2020,Sydney,Adelaide,13.943181818181818
+2020,Sydney,Essendon,13.8125
+2020,Sydney,North Melbourne,13.970588235294118
+2020,Sydney,Western Bulldogs,13.297727272727272
+2020,Sydney,West Coast,13.91161616161616
+2020,Sydney,Gold Coast,13.975935828877006
+2020,Sydney,Hawthorn,14.474747474747474
+2020,Sydney,St Kilda,13.318181818181818
+2020,Sydney,Collingwood,13.371702637889689
+2020,Sydney,Port Adelaide,12.836363636363636
+2020,Sydney,Melbourne,13.963636363636363
+2020,Sydney,Carlton,12.876262626262626
+2020,Sydney,Brisbane Lions,12.97841726618705
+2020,Sydney,Geelong,12.783653846153847
+2020,Sydney,Greater Western Sydney,12.903743315508022
+2020,Sydney,Fremantle,13.33030303030303
+2020,Sydney,Richmond,13.900990099009901
+2020,West Coast,Melbourne,13.963636363636363
+2020,West Coast,Gold Coast,13.975935828877006
+2020,West Coast,Brisbane Lions,12.97841726618705
+2020,West Coast,Port Adelaide,12.836363636363636
+2020,West Coast,Sydney,13.50997150997151
+2020,West Coast,Adelaide,13.943181818181818
+2020,West Coast,Fremantle,13.33030303030303
+2020,West Coast,Geelong,12.783653846153847
+2020,West Coast,Carlton,12.876262626262626
+2020,West Coast,Hawthorn,14.474747474747474
+2020,West Coast,Greater Western Sydney,12.903743315508022
+2020,West Coast,Richmond,13.900990099009901
+2020,West Coast,Essendon,13.8125
+2020,West Coast,Western Bulldogs,13.297727272727272
+2020,West Coast,North Melbourne,13.970588235294118
+2020,West Coast,Collingwood,13.371702637889689
+2020,West Coast,St Kilda,13.318181818181818
+2020,Western Bulldogs,Collingwood,13.371702637889689
+2020,Western Bulldogs,St Kilda,13.318181818181818
+2020,Western Bulldogs,Greater Western Sydney,12.903743315508022
+2020,Western Bulldogs,Sydney,13.50997150997151
+2020,Western Bulldogs,North Melbourne,13.970588235294118
+2020,Western Bulldogs,Carlton,12.876262626262626
+2020,Western Bulldogs,Essendon,13.8125
+2020,Western Bulldogs,Gold Coast,13.975935828877006
+2020,Western Bulldogs,Richmond,13.900990099009901
+2020,Western Bulldogs,Port Adelaide,12.836363636363636
+2020,Western Bulldogs,Brisbane Lions,12.97841726618705
+2020,Western Bulldogs,Adelaide,13.943181818181818
+2020,Western Bulldogs,Melbourne,13.963636363636363
+2020,Western Bulldogs,Geelong,12.783653846153847
+2020,Western Bulldogs,West Coast,13.91161616161616
+2020,Western Bulldogs,Hawthorn,14.474747474747474
+2020,Western Bulldogs,Fremantle,13.33030303030303
+2021,Adelaide,Geelong,14.761092150170649
+2021,Adelaide,Sydney,15.64079822616408
+2021,Adelaide,Gold Coast,16.895555555555557
+2021,Adelaide,North Melbourne,17.138702460850112
+2021,Adelaide,Fremantle,17.07606263982103
+2021,Adelaide,Greater Western Sydney,16.13013698630137
+2021,Adelaide,Port Adelaide,15.736301369863014
+2021,Adelaide,West Coast,16.92650334075724
+2021,Adelaide,Melbourne,16.04642166344294
+2021,Adelaide,Richmond,16.875717017208412
+2021,Adelaide,St Kilda,16.842718446601943
+2021,Adelaide,Carlton,16.34004024144869
+2021,Adelaide,Brisbane Lions,15.689256198347108
+2021,Adelaide,Essendon,16.216101694915253
+2021,Adelaide,Hawthorn,16.583892617449663
+2021,Adelaide,Western Bulldogs,15.99835255354201
+2021,Adelaide,Collingwood,16.98068669527897
+2021,Carlton,Fremantle,17.07606263982103
+2021,Carlton,Gold Coast,16.895555555555557
+2021,Carlton,Port Adelaide,15.736301369863014
+2021,Carlton,Brisbane Lions,15.689256198347108
+2021,Carlton,Essendon,16.216101694915253
+2021,Carlton,Western Bulldogs,15.99835255354201
+2021,Carlton,Melbourne,16.04642166344294
+2021,Carlton,Hawthorn,16.583892617449663
+2021,Carlton,Sydney,15.64079822616408
+2021,Carlton,West Coast,16.92650334075724
+2021,Carlton,Greater Western Sydney,16.13013698630137
+2021,Carlton,Adelaide,16.09492273730684
+2021,Carlton,Geelong,14.761092150170649
+2021,Carlton,Collingwood,16.98068669527897
+2021,Carlton,North Melbourne,17.138702460850112
+2021,Carlton,Richmond,16.875717017208412
+2021,Carlton,St Kilda,16.842718446601943
+2021,Collingwood,Western Bulldogs,15.99835255354201
+2021,Collingwood,Carlton,16.34004024144869
+2021,Collingwood,Brisbane Lions,15.689256198347108
+2021,Collingwood,Greater Western Sydney,16.13013698630137
+2021,Collingwood,Port Adelaide,15.736301369863014
+2021,Collingwood,Fremantle,17.07606263982103
+2021,Collingwood,St Kilda,16.842718446601943
+2021,Collingwood,Richmond,16.875717017208412
+2021,Collingwood,West Coast,16.92650334075724
+2021,Collingwood,Hawthorn,16.583892617449663
+2021,Collingwood,Essendon,16.216101694915253
+2021,Collingwood,Geelong,14.761092150170649
+2021,Collingwood,Adelaide,16.09492273730684
+2021,Collingwood,Melbourne,16.04642166344294
+2021,Collingwood,Gold Coast,16.895555555555557
+2021,Collingwood,North Melbourne,17.138702460850112
+2021,Collingwood,Sydney,15.64079822616408
+2021,Essendon,Richmond,16.875717017208412
+2021,Essendon,Carlton,16.34004024144869
+2021,Essendon,Hawthorn,16.583892617449663
+2021,Essendon,Port Adelaide,15.736301369863014
+2021,Essendon,Sydney,15.64079822616408
+2021,Essendon,Western Bulldogs,15.99835255354201
+2021,Essendon,Gold Coast,16.895555555555557
+2021,Essendon,Collingwood,16.98068669527897
+2021,Essendon,St Kilda,16.842718446601943
+2021,Essendon,Brisbane Lions,15.689256198347108
+2021,Essendon,Greater Western Sydney,16.13013698630137
+2021,Essendon,Fremantle,17.07606263982103
+2021,Essendon,North Melbourne,17.138702460850112
+2021,Essendon,West Coast,16.92650334075724
+2021,Essendon,Melbourne,16.04642166344294
+2021,Essendon,Geelong,14.761092150170649
+2021,Essendon,Adelaide,16.09492273730684
+2021,Fremantle,Melbourne,16.04642166344294
+2021,Fremantle,Greater Western Sydney,16.13013698630137
+2021,Fremantle,Carlton,16.34004024144869
+2021,Fremantle,Hawthorn,16.583892617449663
+2021,Fremantle,Adelaide,16.09492273730684
+2021,Fremantle,North Melbourne,17.138702460850112
+2021,Fremantle,West Coast,16.92650334075724
+2021,Fremantle,Brisbane Lions,15.689256198347108
+2021,Fremantle,Essendon,16.216101694915253
+2021,Fremantle,Sydney,15.64079822616408
+2021,Fremantle,Port Adelaide,15.736301369863014
+2021,Fremantle,Western Bulldogs,15.99835255354201
+2021,Fremantle,Gold Coast,16.895555555555557
+2021,Fremantle,Collingwood,16.98068669527897
+2021,Fremantle,Geelong,14.761092150170649
+2021,Fremantle,St Kilda,16.842718446601943
+2021,Fremantle,Richmond,16.875717017208412
+2021,Geelong,Adelaide,16.09492273730684
+2021,Geelong,Brisbane Lions,15.689256198347108
+2021,Geelong,Hawthorn,16.583892617449663
+2021,Geelong,Melbourne,16.04642166344294
+2021,Geelong,North Melbourne,17.138702460850112
+2021,Geelong,West Coast,16.92650334075724
+2021,Geelong,Sydney,15.64079822616408
+2021,Geelong,Richmond,16.875717017208412
+2021,Geelong,St Kilda,16.842718446601943
+2021,Geelong,Gold Coast,16.895555555555557
+2021,Geelong,Collingwood,16.98068669527897
+2021,Geelong,Port Adelaide,15.736301369863014
+2021,Geelong,Western Bulldogs,15.99835255354201
+2021,Geelong,Essendon,16.216101694915253
+2021,Geelong,Carlton,16.34004024144869
+2021,Geelong,Fremantle,17.07606263982103
+2021,Geelong,Greater Western Sydney,16.13013698630137
+2021,Gold Coast,North Melbourne,17.138702460850112
+2021,Gold Coast,Adelaide,16.09492273730684
+2021,Gold Coast,Carlton,16.34004024144869
+2021,Gold Coast,Western Bulldogs,15.99835255354201
+2021,Gold Coast,Sydney,15.64079822616408
+2021,Gold Coast,Collingwood,16.98068669527897
+2021,Gold Coast,St Kilda,16.842718446601943
+2021,Gold Coast,Brisbane Lions,15.689256198347108
+2021,Gold Coast,Richmond,16.875717017208412
+2021,Gold Coast,Greater Western Sydney,16.13013698630137
+2021,Gold Coast,Melbourne,16.04642166344294
+2021,Gold Coast,Essendon,16.216101694915253
+2021,Gold Coast,West Coast,16.92650334075724
+2021,Gold Coast,Geelong,14.761092150170649
+2021,Gold Coast,Hawthorn,16.583892617449663
+2021,Gold Coast,Fremantle,17.07606263982103
+2021,Gold Coast,Port Adelaide,15.736301369863014
+2021,Hawthorn,Essendon,16.216101694915253
+2021,Hawthorn,Greater Western Sydney,16.13013698630137
+2021,Hawthorn,Port Adelaide,15.736301369863014
+2021,Hawthorn,Fremantle,17.07606263982103
+2021,Hawthorn,Melbourne,16.04642166344294
+2021,Hawthorn,Adelaide,16.09492273730684
+2021,Hawthorn,Brisbane Lions,15.689256198347108
+2021,Hawthorn,Collingwood,16.98068669527897
+2021,Hawthorn,Western Bulldogs,15.99835255354201
+2021,Hawthorn,Richmond,16.875717017208412
+2021,Hawthorn,Geelong,14.761092150170649
+2021,Hawthorn,St Kilda,16.842718446601943
+2021,Hawthorn,West Coast,16.92650334075724
+2021,Hawthorn,North Melbourne,17.138702460850112
+2021,Hawthorn,Carlton,16.34004024144869
+2021,Hawthorn,Gold Coast,16.895555555555557
+2021,Hawthorn,Sydney,15.64079822616408
+2021,Melbourne,North Melbourne,17.138702460850112
+2021,Melbourne,Gold Coast,16.895555555555557
+2021,Melbourne,West Coast,16.92650334075724
+2021,Melbourne,Adelaide,16.09492273730684
+2021,Melbourne,Geelong,14.761092150170649
+2021,Melbourne,Brisbane Lions,15.689256198347108
+2021,Melbourne,Western Bulldogs,15.99835255354201
+2021,Melbourne,Fremantle,17.07606263982103
+2021,Melbourne,St Kilda,16.842718446601943
+2021,Melbourne,Greater Western Sydney,16.13013698630137
+2021,Melbourne,Hawthorn,16.583892617449663
+2021,Melbourne,Richmond,16.875717017208412
+2021,Melbourne,Sydney,15.64079822616408
+2021,Melbourne,Carlton,16.34004024144869
+2021,Melbourne,Collingwood,16.98068669527897
+2021,Melbourne,Essendon,16.216101694915253
+2021,Melbourne,Port Adelaide,15.736301369863014
+2021,North Melbourne,Gold Coast,16.895555555555557
+2021,North Melbourne,Western Bulldogs,15.99835255354201
+2021,North Melbourne,Carlton,16.34004024144869
+2021,North Melbourne,Geelong,14.761092150170649
+2021,North Melbourne,Richmond,16.875717017208412
+2021,North Melbourne,Sydney,15.64079822616408
+2021,North Melbourne,Adelaide,16.09492273730684
+2021,North Melbourne,Port Adelaide,15.736301369863014
+2021,North Melbourne,Fremantle,17.07606263982103
+2021,North Melbourne,Melbourne,16.04642166344294
+2021,North Melbourne,Collingwood,16.98068669527897
+2021,North Melbourne,Hawthorn,16.583892617449663
+2021,North Melbourne,Essendon,16.216101694915253
+2021,North Melbourne,St Kilda,16.842718446601943
+2021,North Melbourne,Greater Western Sydney,16.13013698630137
+2021,North Melbourne,Brisbane Lions,15.689256198347108
+2021,North Melbourne,West Coast,16.92650334075724
+2021,Port Adelaide,North Melbourne,17.138702460850112
+2021,Port Adelaide,Essendon,16.216101694915253
+2021,Port Adelaide,West Coast,16.92650334075724
+2021,Port Adelaide,Richmond,16.875717017208412
+2021,Port Adelaide,Carlton,16.34004024144869
+2021,Port Adelaide,St Kilda,16.842718446601943
+2021,Port Adelaide,Brisbane Lions,15.689256198347108
+2021,Port Adelaide,Adelaide,16.09492273730684
+2021,Port Adelaide,Western Bulldogs,15.99835255354201
+2021,Port Adelaide,Collingwood,16.98068669527897
+2021,Port Adelaide,Fremantle,17.07606263982103
+2021,Port Adelaide,Geelong,14.761092150170649
+2021,Port Adelaide,Gold Coast,16.895555555555557
+2021,Port Adelaide,Sydney,15.64079822616408
+2021,Port Adelaide,Hawthorn,16.583892617449663
+2021,Port Adelaide,Melbourne,16.04642166344294
+2021,Port Adelaide,Greater Western Sydney,16.13013698630137
+2021,Richmond,Carlton,16.34004024144869
+2021,Richmond,Hawthorn,16.583892617449663
+2021,Richmond,Sydney,15.64079822616408
+2021,Richmond,Port Adelaide,15.736301369863014
+2021,Richmond,St Kilda,16.842718446601943
+2021,Richmond,Melbourne,16.04642166344294
+2021,Richmond,Western Bulldogs,15.99835255354201
+2021,Richmond,Geelong,14.761092150170649
+2021,Richmond,Greater Western Sydney,16.13013698630137
+2021,Richmond,Brisbane Lions,15.689256198347108
+2021,Richmond,Adelaide,16.09492273730684
+2021,Richmond,Essendon,16.216101694915253
+2021,Richmond,West Coast,16.92650334075724
+2021,Richmond,Gold Coast,16.895555555555557
+2021,Richmond,Collingwood,16.98068669527897
+2021,Richmond,Fremantle,17.07606263982103
+2021,Richmond,North Melbourne,17.138702460850112
+2021,St Kilda,Greater Western Sydney,16.13013698630137
+2021,St Kilda,Melbourne,16.04642166344294
+2021,St Kilda,Essendon,16.216101694915253
+2021,St Kilda,West Coast,16.92650334075724
+2021,St Kilda,Richmond,16.875717017208412
+2021,St Kilda,Port Adelaide,15.736301369863014
+2021,St Kilda,Hawthorn,16.583892617449663
+2021,St Kilda,Gold Coast,16.895555555555557
+2021,St Kilda,Geelong,14.761092150170649
+2021,St Kilda,Western Bulldogs,15.99835255354201
+2021,St Kilda,North Melbourne,17.138702460850112
+2021,St Kilda,Sydney,15.64079822616408
+2021,St Kilda,Adelaide,16.09492273730684
+2021,St Kilda,Collingwood,16.98068669527897
+2021,St Kilda,Brisbane Lions,15.689256198347108
+2021,St Kilda,Carlton,16.34004024144869
+2021,St Kilda,Fremantle,17.07606263982103
+2021,Sydney,St Kilda,16.842718446601943
+2021,Sydney,Hawthorn,16.583892617449663
+2021,Sydney,Port Adelaide,15.736301369863014
+2021,Sydney,West Coast,16.92650334075724
+2021,Sydney,Western Bulldogs,15.99835255354201
+2021,Sydney,Greater Western Sydney,16.13013698630137
+2021,Sydney,Essendon,16.216101694915253
+2021,Sydney,Fremantle,17.07606263982103
+2021,Sydney,Brisbane Lions,15.689256198347108
+2021,Sydney,Adelaide,16.09492273730684
+2021,Sydney,Richmond,16.875717017208412
+2021,Sydney,Gold Coast,16.895555555555557
+2021,Sydney,Collingwood,16.98068669527897
+2021,Sydney,North Melbourne,17.138702460850112
+2021,Sydney,Carlton,16.34004024144869
+2021,Sydney,Geelong,14.761092150170649
+2021,Sydney,Melbourne,16.04642166344294
+2021,West Coast,Hawthorn,16.583892617449663
+2021,West Coast,Adelaide,16.09492273730684
+2021,West Coast,Greater Western Sydney,16.13013698630137
+2021,West Coast,Essendon,16.216101694915253
+2021,West Coast,North Melbourne,17.138702460850112
+2021,West Coast,Geelong,14.761092150170649
+2021,West Coast,Gold Coast,16.895555555555557
+2021,West Coast,Western Bulldogs,15.99835255354201
+2021,West Coast,Port Adelaide,15.736301369863014
+2021,West Coast,St Kilda,16.842718446601943
+2021,West Coast,Collingwood,16.98068669527897
+2021,West Coast,Fremantle,17.07606263982103
+2021,West Coast,Richmond,16.875717017208412
+2021,West Coast,Sydney,15.64079822616408
+2021,West Coast,Melbourne,16.04642166344294
+2021,West Coast,Brisbane Lions,15.689256198347108
+2021,West Coast,Carlton,16.34004024144869
+2021,Western Bulldogs,Collingwood,16.98068669527897
+2021,Western Bulldogs,West Coast,16.92650334075724
+2021,Western Bulldogs,North Melbourne,17.138702460850112
+2021,Western Bulldogs,Brisbane Lions,15.689256198347108
+2021,Western Bulldogs,Gold Coast,16.895555555555557
+2021,Western Bulldogs,Greater Western Sydney,16.13013698630137
+2021,Western Bulldogs,Richmond,16.875717017208412
+2021,Western Bulldogs,Carlton,16.34004024144869
+2021,Western Bulldogs,Port Adelaide,15.736301369863014
+2021,Western Bulldogs,St Kilda,16.842718446601943
+2021,Western Bulldogs,Melbourne,16.04642166344294
+2021,Western Bulldogs,Fremantle,17.07606263982103
+2021,Western Bulldogs,Geelong,14.761092150170649
+2021,Western Bulldogs,Sydney,15.64079822616408
+2021,Western Bulldogs,Adelaide,16.09492273730684
+2021,Western Bulldogs,Essendon,16.216101694915253
+2021,Western Bulldogs,Hawthorn,16.583892617449663
+2022,Adelaide,Richmond,16.16991150442478
+2022,Adelaide,Western Bulldogs,15.801626016260162
+2022,Adelaide,Greater Western Sydney,16.142250530785564
+2022,Adelaide,Carlton,15.348697394789578
+2022,Adelaide,Brisbane Lions,15.477093206951027
+2022,Adelaide,St Kilda,16.229910714285715
+2022,Adelaide,Geelong,16.115027829313544
+2022,Adelaide,West Coast,16.339662447257385
+2022,Adelaide,Gold Coast,16.35211267605634
+2022,Adelaide,North Melbourne,16.25
+2022,Adelaide,Melbourne,16.05693950177936
+2022,Adelaide,Hawthorn,16.821826280623608
+2022,Adelaide,Collingwood,16.876785714285713
+2022,Adelaide,Sydney,15.602862254025045
+2022,Adelaide,Port Adelaide,15.353965183752418
+2022,Adelaide,Fremantle,15.687258687258687
+2022,Adelaide,Essendon,16.110849056603772
+2022,Carlton,Hawthorn,16.821826280623608
+2022,Carlton,Gold Coast,16.35211267605634
+2022,Carlton,Fremantle,15.687258687258687
+2022,Carlton,Adelaide,16.082039911308204
+2022,Carlton,Essendon,16.110849056603772
+2022,Carlton,Richmond,16.16991150442478
+2022,Carlton,North Melbourne,16.25
+2022,Carlton,Greater Western Sydney,16.142250530785564
+2022,Carlton,Sydney,15.602862254025045
+2022,Carlton,Collingwood,16.876785714285713
+2022,Carlton,Port Adelaide,15.353965183752418
+2022,Carlton,St Kilda,16.229910714285715
+2022,Carlton,West Coast,16.339662447257385
+2022,Carlton,Geelong,16.115027829313544
+2022,Carlton,Brisbane Lions,15.477093206951027
+2022,Carlton,Melbourne,16.05693950177936
+2022,Carlton,Western Bulldogs,15.801626016260162
+2022,Collingwood,St Kilda,16.229910714285715
+2022,Collingwood,Adelaide,16.082039911308204
+2022,Collingwood,Geelong,16.115027829313544
+2022,Collingwood,Brisbane Lions,15.477093206951027
+2022,Collingwood,Essendon,16.110849056603772
+2022,Collingwood,Gold Coast,16.35211267605634
+2022,Collingwood,Richmond,16.16991150442478
+2022,Collingwood,Western Bulldogs,15.801626016260162
+2022,Collingwood,Fremantle,15.687258687258687
+2022,Collingwood,Carlton,15.348697394789578
+2022,Collingwood,Hawthorn,16.821826280623608
+2022,Collingwood,Melbourne,16.05693950177936
+2022,Collingwood,Greater Western Sydney,16.142250530785564
+2022,Collingwood,North Melbourne,16.25
+2022,Collingwood,Port Adelaide,15.353965183752418
+2022,Collingwood,West Coast,16.339662447257385
+2022,Collingwood,Sydney,15.602862254025045
+2022,Essendon,Geelong,16.115027829313544
+2022,Essendon,Collingwood,16.876785714285713
+2022,Essendon,Western Bulldogs,15.801626016260162
+2022,Essendon,Hawthorn,16.821826280623608
+2022,Essendon,Sydney,15.602862254025045
+2022,Essendon,Richmond,16.16991150442478
+2022,Essendon,West Coast,16.339662447257385
+2022,Essendon,Port Adelaide,15.353965183752418
+2022,Essendon,Brisbane Lions,15.477093206951027
+2022,Essendon,Melbourne,16.05693950177936
+2022,Essendon,Adelaide,16.082039911308204
+2022,Essendon,Fremantle,15.687258687258687
+2022,Essendon,Carlton,15.348697394789578
+2022,Essendon,St Kilda,16.229910714285715
+2022,Essendon,Gold Coast,16.35211267605634
+2022,Essendon,North Melbourne,16.25
+2022,Essendon,Greater Western Sydney,16.142250530785564
+2022,Fremantle,Adelaide,16.082039911308204
+2022,Fremantle,St Kilda,16.229910714285715
+2022,Fremantle,West Coast,16.339662447257385
+2022,Fremantle,Greater Western Sydney,16.142250530785564
+2022,Fremantle,Essendon,16.110849056603772
+2022,Fremantle,Carlton,15.348697394789578
+2022,Fremantle,Geelong,16.115027829313544
+2022,Fremantle,Gold Coast,16.35211267605634
+2022,Fremantle,Collingwood,16.876785714285713
+2022,Fremantle,Melbourne,16.05693950177936
+2022,Fremantle,Brisbane Lions,15.477093206951027
+2022,Fremantle,Hawthorn,16.821826280623608
+2022,Fremantle,Sydney,15.602862254025045
+2022,Fremantle,Richmond,16.16991150442478
+2022,Fremantle,Western Bulldogs,15.801626016260162
+2022,Fremantle,North Melbourne,16.25
+2022,Fremantle,Port Adelaide,15.353965183752418
+2022,Geelong,Essendon,16.110849056603772
+2022,Geelong,Sydney,15.602862254025045
+2022,Geelong,Collingwood,16.876785714285713
+2022,Geelong,Brisbane Lions,15.477093206951027
+2022,Geelong,Hawthorn,16.821826280623608
+2022,Geelong,North Melbourne,16.25
+2022,Geelong,Fremantle,15.687258687258687
+2022,Geelong,Greater Western Sydney,16.142250530785564
+2022,Geelong,St Kilda,16.229910714285715
+2022,Geelong,Port Adelaide,15.353965183752418
+2022,Geelong,Adelaide,16.082039911308204
+2022,Geelong,Western Bulldogs,15.801626016260162
+2022,Geelong,West Coast,16.339662447257385
+2022,Geelong,Richmond,16.16991150442478
+2022,Geelong,Melbourne,16.05693950177936
+2022,Geelong,Carlton,15.348697394789578
+2022,Geelong,Gold Coast,16.35211267605634
+2022,Gold Coast,West Coast,16.339662447257385
+2022,Gold Coast,Melbourne,16.05693950177936
+2022,Gold Coast,Greater Western Sydney,16.142250530785564
+2022,Gold Coast,Carlton,15.348697394789578
+2022,Gold Coast,St Kilda,16.229910714285715
+2022,Gold Coast,Brisbane Lions,15.477093206951027
+2022,Gold Coast,Collingwood,16.876785714285713
+2022,Gold Coast,Sydney,15.602862254025045
+2022,Gold Coast,Fremantle,15.687258687258687
+2022,Gold Coast,Western Bulldogs,15.801626016260162
+2022,Gold Coast,Hawthorn,16.821826280623608
+2022,Gold Coast,North Melbourne,16.25
+2022,Gold Coast,Adelaide,16.082039911308204
+2022,Gold Coast,Port Adelaide,15.353965183752418
+2022,Gold Coast,Richmond,16.16991150442478
+2022,Gold Coast,Essendon,16.110849056603772
+2022,Gold Coast,Geelong,16.115027829313544
+2022,Hawthorn,Western Bulldogs,15.801626016260162
+2022,Hawthorn,Greater Western Sydney,16.142250530785564
+2022,Hawthorn,Adelaide,16.082039911308204
+2022,Hawthorn,West Coast,16.339662447257385
+2022,Hawthorn,North Melbourne,16.25
+2022,Hawthorn,St Kilda,16.229910714285715
+2022,Hawthorn,Richmond,16.16991150442478
+2022,Hawthorn,Melbourne,16.05693950177936
+2022,Hawthorn,Essendon,16.110849056603772
+2022,Hawthorn,Brisbane Lions,15.477093206951027
+2022,Hawthorn,Gold Coast,16.35211267605634
+2022,Hawthorn,Collingwood,16.876785714285713
+2022,Hawthorn,Fremantle,15.687258687258687
+2022,Hawthorn,Port Adelaide,15.353965183752418
+2022,Hawthorn,Carlton,15.348697394789578
+2022,Hawthorn,Geelong,16.115027829313544
+2022,Hawthorn,Sydney,15.602862254025045
+2022,Melbourne,Western Bulldogs,15.801626016260162
+2022,Melbourne,Hawthorn,16.821826280623608
+2022,Melbourne,North Melbourne,16.25
+2022,Melbourne,Fremantle,15.687258687258687
+2022,Melbourne,Brisbane Lions,15.477093206951027
+2022,Melbourne,Adelaide,16.082039911308204
+2022,Melbourne,Geelong,16.115027829313544
+2022,Melbourne,Port Adelaide,15.353965183752418
+2022,Melbourne,Gold Coast,16.35211267605634
+2022,Melbourne,Essendon,16.110849056603772
+2022,Melbourne,Greater Western Sydney,16.142250530785564
+2022,Melbourne,Richmond,16.16991150442478
+2022,Melbourne,St Kilda,16.229910714285715
+2022,Melbourne,West Coast,16.339662447257385
+2022,Melbourne,Sydney,15.602862254025045
+2022,Melbourne,Collingwood,16.876785714285713
+2022,Melbourne,Carlton,15.348697394789578
+2022,North Melbourne,Fremantle,15.687258687258687
+2022,North Melbourne,Port Adelaide,15.353965183752418
+2022,North Melbourne,Melbourne,16.05693950177936
+2022,North Melbourne,St Kilda,16.229910714285715
+2022,North Melbourne,Gold Coast,16.35211267605634
+2022,North Melbourne,Greater Western Sydney,16.142250530785564
+2022,North Melbourne,Adelaide,16.082039911308204
+2022,North Melbourne,Geelong,16.115027829313544
+2022,North Melbourne,Collingwood,16.876785714285713
+2022,North Melbourne,Richmond,16.16991150442478
+2022,North Melbourne,Hawthorn,16.821826280623608
+2022,North Melbourne,Essendon,16.110849056603772
+2022,North Melbourne,Sydney,15.602862254025045
+2022,North Melbourne,Carlton,15.348697394789578
+2022,North Melbourne,West Coast,16.339662447257385
+2022,North Melbourne,Western Bulldogs,15.801626016260162
+2022,North Melbourne,Brisbane Lions,15.477093206951027
+2022,Port Adelaide,Brisbane Lions,15.477093206951027
+2022,Port Adelaide,Carlton,15.348697394789578
+2022,Port Adelaide,West Coast,16.339662447257385
+2022,Port Adelaide,St Kilda,16.229910714285715
+2022,Port Adelaide,Western Bulldogs,15.801626016260162
+2022,Port Adelaide,North Melbourne,16.25
+2022,Port Adelaide,Geelong,16.115027829313544
+2022,Port Adelaide,Essendon,16.110849056603772
+2022,Port Adelaide,Richmond,16.16991150442478
+2022,Port Adelaide,Sydney,15.602862254025045
+2022,Port Adelaide,Gold Coast,16.35211267605634
+2022,Port Adelaide,Fremantle,15.687258687258687
+2022,Port Adelaide,Greater Western Sydney,16.142250530785564
+2022,Port Adelaide,Melbourne,16.05693950177936
+2022,Port Adelaide,Collingwood,16.876785714285713
+2022,Port Adelaide,Adelaide,16.082039911308204
+2022,Port Adelaide,Hawthorn,16.821826280623608
+2022,Richmond,Carlton,15.348697394789578
+2022,Richmond,Greater Western Sydney,16.142250530785564
+2022,Richmond,St Kilda,16.229910714285715
+2022,Richmond,Adelaide,16.082039911308204
+2022,Richmond,Essendon,16.110849056603772
+2022,Richmond,Gold Coast,16.35211267605634
+2022,Richmond,North Melbourne,16.25
+2022,Richmond,Western Bulldogs,15.801626016260162
+2022,Richmond,Melbourne,16.05693950177936
+2022,Richmond,West Coast,16.339662447257385
+2022,Richmond,Collingwood,16.876785714285713
+2022,Richmond,Hawthorn,16.821826280623608
+2022,Richmond,Sydney,15.602862254025045
+2022,Richmond,Port Adelaide,15.353965183752418
+2022,Richmond,Geelong,16.115027829313544
+2022,Richmond,Fremantle,15.687258687258687
+2022,Richmond,Brisbane Lions,15.477093206951027
+2022,St Kilda,Collingwood,16.876785714285713
+2022,St Kilda,Fremantle,15.687258687258687
+2022,St Kilda,Richmond,16.16991150442478
+2022,St Kilda,Hawthorn,16.821826280623608
+2022,St Kilda,Gold Coast,16.35211267605634
+2022,St Kilda,Greater Western Sydney,16.142250530785564
+2022,St Kilda,Port Adelaide,15.353965183752418
+2022,St Kilda,Melbourne,16.05693950177936
+2022,St Kilda,Geelong,16.115027829313544
+2022,St Kilda,Adelaide,16.082039911308204
+2022,St Kilda,North Melbourne,16.25
+2022,St Kilda,Brisbane Lions,15.477093206951027
+2022,St Kilda,Essendon,16.110849056603772
+2022,St Kilda,Sydney,15.602862254025045
+2022,St Kilda,Carlton,15.348697394789578
+2022,St Kilda,Western Bulldogs,15.801626016260162
+2022,St Kilda,West Coast,16.339662447257385
+2022,Sydney,Western Bulldogs,15.801626016260162
+2022,Sydney,Melbourne,16.05693950177936
+2022,Sydney,Fremantle,15.687258687258687
+2022,Sydney,Adelaide,16.082039911308204
+2022,Sydney,Greater Western Sydney,16.142250530785564
+2022,Sydney,North Melbourne,16.25
+2022,Sydney,West Coast,16.339662447257385
+2022,Sydney,Hawthorn,16.821826280623608
+2022,Sydney,Brisbane Lions,15.477093206951027
+2022,Sydney,Essendon,16.110849056603772
+2022,Sydney,Carlton,15.348697394789578
+2022,Sydney,Geelong,16.115027829313544
+2022,Sydney,Gold Coast,16.35211267605634
+2022,Sydney,Port Adelaide,15.353965183752418
+2022,Sydney,St Kilda,16.229910714285715
+2022,Sydney,Collingwood,16.876785714285713
+2022,Sydney,Richmond,16.16991150442478
+2022,West Coast,North Melbourne,16.25
+2022,West Coast,Gold Coast,16.35211267605634
+2022,West Coast,Collingwood,16.876785714285713
+2022,West Coast,Sydney,15.602862254025045
+2022,West Coast,Port Adelaide,15.353965183752418
+2022,West Coast,Brisbane Lions,15.477093206951027
+2022,West Coast,Melbourne,16.05693950177936
+2022,West Coast,Greater Western Sydney,16.142250530785564
+2022,West Coast,Western Bulldogs,15.801626016260162
+2022,West Coast,Adelaide,16.082039911308204
+2022,West Coast,Geelong,16.115027829313544
+2022,West Coast,Essendon,16.110849056603772
+2022,West Coast,Richmond,16.16991150442478
+2022,West Coast,Carlton,15.348697394789578
+2022,West Coast,Hawthorn,16.821826280623608
+2022,West Coast,St Kilda,16.229910714285715
+2022,West Coast,Fremantle,15.687258687258687
+2022,Western Bulldogs,Brisbane Lions,15.477093206951027
+2022,Western Bulldogs,Sydney,15.602862254025045
+2022,Western Bulldogs,Melbourne,16.05693950177936
+2022,Western Bulldogs,Carlton,15.348697394789578
+2022,Western Bulldogs,Richmond,16.16991150442478
+2022,Western Bulldogs,North Melbourne,16.25
+2022,Western Bulldogs,Adelaide,16.082039911308204
+2022,Western Bulldogs,Essendon,16.110849056603772
+2022,Western Bulldogs,Collingwood,16.876785714285713
+2022,Western Bulldogs,Gold Coast,16.35211267605634
+2022,Western Bulldogs,West Coast,16.339662447257385
+2022,Western Bulldogs,Geelong,16.115027829313544
+2022,Western Bulldogs,Greater Western Sydney,16.142250530785564
+2022,Western Bulldogs,Hawthorn,16.821826280623608
+2022,Western Bulldogs,St Kilda,16.229910714285715
+2022,Western Bulldogs,Fremantle,15.687258687258687
+2022,Western Bulldogs,Port Adelaide,15.353965183752418
+2023,Adelaide,Greater Western Sydney,16.031304347826087
+2023,Adelaide,Richmond,16.069808027923212
+2023,Adelaide,Port Adelaide,15.513661202185792
+2023,Adelaide,Western Bulldogs,15.372050816696914
+2023,Adelaide,Gold Coast,15.82391304347826
+2023,Adelaide,Brisbane Lions,15.658925979680697
+2023,Adelaide,Sydney,15.57391304347826
+2023,Adelaide,West Coast,16.592132505175982
+2023,Adelaide,Fremantle,15.464730290456432
+2023,Adelaide,Carlton,15.694704049844237
+2023,Adelaide,Hawthorn,15.886710239651416
+2023,Adelaide,Collingwood,15.705454545454545
+2023,Adelaide,Geelong,15.581239530988274
+2023,Adelaide,St Kilda,16.60792079207921
+2023,Adelaide,North Melbourne,16.65072765072765
+2023,Adelaide,Melbourne,15.75831873905429
+2023,Adelaide,Essendon,16.0
+2023,Carlton,Richmond,16.069808027923212
+2023,Carlton,Geelong,15.581239530988274
+2023,Carlton,Greater Western Sydney,16.031304347826087
+2023,Carlton,Adelaide,14.969498910675382
+2023,Carlton,St Kilda,16.60792079207921
+2023,Carlton,West Coast,16.592132505175982
+2023,Carlton,Brisbane Lions,15.658925979680697
+2023,Carlton,Western Bulldogs,15.372050816696914
+2023,Carlton,Collingwood,15.705454545454545
+2023,Carlton,Sydney,15.57391304347826
+2023,Carlton,Melbourne,15.75831873905429
+2023,Carlton,Essendon,16.0
+2023,Carlton,Gold Coast,15.82391304347826
+2023,Carlton,Hawthorn,15.886710239651416
+2023,Carlton,Fremantle,15.464730290456432
+2023,Carlton,Port Adelaide,15.513661202185792
+2023,Carlton,North Melbourne,16.65072765072765
+2023,Collingwood,Geelong,15.581239530988274
+2023,Collingwood,Port Adelaide,15.513661202185792
+2023,Collingwood,Richmond,16.069808027923212
+2023,Collingwood,Brisbane Lions,15.658925979680697
+2023,Collingwood,St Kilda,16.60792079207921
+2023,Collingwood,Adelaide,14.969498910675382
+2023,Collingwood,Sydney,15.57391304347826
+2023,Collingwood,Greater Western Sydney,16.031304347826087
+2023,Collingwood,Carlton,15.694704049844237
+2023,Collingwood,North Melbourne,16.65072765072765
+2023,Collingwood,West Coast,16.592132505175982
+2023,Collingwood,Melbourne,15.75831873905429
+2023,Collingwood,Gold Coast,15.82391304347826
+2023,Collingwood,Western Bulldogs,15.372050816696914
+2023,Collingwood,Fremantle,15.464730290456432
+2023,Collingwood,Hawthorn,15.886710239651416
+2023,Collingwood,Essendon,16.0
+2023,Essendon,Brisbane Lions,15.658925979680697
+2023,Essendon,Richmond,16.069808027923212
+2023,Essendon,North Melbourne,16.65072765072765
+2023,Essendon,West Coast,16.592132505175982
+2023,Essendon,Fremantle,15.464730290456432
+2023,Essendon,Geelong,15.581239530988274
+2023,Essendon,Western Bulldogs,15.372050816696914
+2023,Essendon,Sydney,15.57391304347826
+2023,Essendon,Collingwood,15.705454545454545
+2023,Essendon,Hawthorn,15.886710239651416
+2023,Essendon,Gold Coast,15.82391304347826
+2023,Essendon,St Kilda,16.60792079207921
+2023,Essendon,Greater Western Sydney,16.031304347826087
+2023,Essendon,Melbourne,15.75831873905429
+2023,Essendon,Port Adelaide,15.513661202185792
+2023,Essendon,Carlton,15.694704049844237
+2023,Essendon,Adelaide,14.969498910675382
+2023,Fremantle,St Kilda,16.60792079207921
+2023,Fremantle,North Melbourne,16.65072765072765
+2023,Fremantle,West Coast,16.592132505175982
+2023,Fremantle,Adelaide,14.969498910675382
+2023,Fremantle,Gold Coast,15.82391304347826
+2023,Fremantle,Western Bulldogs,15.372050816696914
+2023,Fremantle,Brisbane Lions,15.658925979680697
+2023,Fremantle,Hawthorn,15.886710239651416
+2023,Fremantle,Sydney,15.57391304347826
+2023,Fremantle,Geelong,15.581239530988274
+2023,Fremantle,Melbourne,15.75831873905429
+2023,Fremantle,Richmond,16.069808027923212
+2023,Fremantle,Carlton,15.694704049844237
+2023,Fremantle,Collingwood,15.705454545454545
+2023,Fremantle,Port Adelaide,15.513661202185792
+2023,Fremantle,Greater Western Sydney,16.031304347826087
+2023,Fremantle,Essendon,16.0
+2023,Geelong,Collingwood,15.705454545454545
+2023,Geelong,Carlton,15.694704049844237
+2023,Geelong,Gold Coast,15.82391304347826
+2023,Geelong,Hawthorn,15.886710239651416
+2023,Geelong,West Coast,16.592132505175982
+2023,Geelong,Sydney,15.57391304347826
+2023,Geelong,Essendon,16.0
+2023,Geelong,Adelaide,14.969498910675382
+2023,Geelong,Richmond,16.069808027923212
+2023,Geelong,Fremantle,15.464730290456432
+2023,Geelong,Greater Western Sydney,16.031304347826087
+2023,Geelong,Western Bulldogs,15.372050816696914
+2023,Geelong,Port Adelaide,15.513661202185792
+2023,Geelong,Melbourne,15.75831873905429
+2023,Geelong,North Melbourne,16.65072765072765
+2023,Geelong,Brisbane Lions,15.658925979680697
+2023,Geelong,St Kilda,16.60792079207921
+2023,Gold Coast,Sydney,15.57391304347826
+2023,Gold Coast,Essendon,16.0
+2023,Gold Coast,Geelong,15.581239530988274
+2023,Gold Coast,St Kilda,16.60792079207921
+2023,Gold Coast,Fremantle,15.464730290456432
+2023,Gold Coast,North Melbourne,16.65072765072765
+2023,Gold Coast,Richmond,16.069808027923212
+2023,Gold Coast,Brisbane Lions,15.658925979680697
+2023,Gold Coast,Western Bulldogs,15.372050816696914
+2023,Gold Coast,Adelaide,14.969498910675382
+2023,Gold Coast,Carlton,15.694704049844237
+2023,Gold Coast,Hawthorn,15.886710239651416
+2023,Gold Coast,Collingwood,15.705454545454545
+2023,Gold Coast,Port Adelaide,15.513661202185792
+2023,Gold Coast,Greater Western Sydney,16.031304347826087
+2023,Gold Coast,Melbourne,15.75831873905429
+2023,Gold Coast,West Coast,16.592132505175982
+2023,Hawthorn,Essendon,16.0
+2023,Hawthorn,Sydney,15.57391304347826
+2023,Hawthorn,North Melbourne,16.65072765072765
+2023,Hawthorn,Geelong,15.581239530988274
+2023,Hawthorn,Greater Western Sydney,16.031304347826087
+2023,Hawthorn,Adelaide,14.969498910675382
+2023,Hawthorn,Western Bulldogs,15.372050816696914
+2023,Hawthorn,Fremantle,15.464730290456432
+2023,Hawthorn,Melbourne,15.75831873905429
+2023,Hawthorn,West Coast,16.592132505175982
+2023,Hawthorn,St Kilda,16.60792079207921
+2023,Hawthorn,Port Adelaide,15.513661202185792
+2023,Hawthorn,Brisbane Lions,15.658925979680697
+2023,Hawthorn,Gold Coast,15.82391304347826
+2023,Hawthorn,Carlton,15.694704049844237
+2023,Hawthorn,Richmond,16.069808027923212
+2023,Hawthorn,Collingwood,15.705454545454545
+2023,Melbourne,Western Bulldogs,15.372050816696914
+2023,Melbourne,Brisbane Lions,15.658925979680697
+2023,Melbourne,Sydney,15.57391304347826
+2023,Melbourne,West Coast,16.592132505175982
+2023,Melbourne,Essendon,16.0
+2023,Melbourne,Richmond,16.069808027923212
+2023,Melbourne,North Melbourne,16.65072765072765
+2023,Melbourne,Gold Coast,15.82391304347826
+2023,Melbourne,Hawthorn,15.886710239651416
+2023,Melbourne,Port Adelaide,15.513661202185792
+2023,Melbourne,Fremantle,15.464730290456432
+2023,Melbourne,Carlton,15.694704049844237
+2023,Melbourne,Greater Western Sydney,16.031304347826087
+2023,Melbourne,St Kilda,16.60792079207921
+2023,Melbourne,Adelaide,14.969498910675382
+2023,Melbourne,Collingwood,15.705454545454545
+2023,Melbourne,Geelong,15.581239530988274
+2023,North Melbourne,Hawthorn,15.886710239651416
+2023,North Melbourne,St Kilda,16.60792079207921
+2023,North Melbourne,West Coast,16.592132505175982
+2023,North Melbourne,Melbourne,15.75831873905429
+2023,North Melbourne,Essendon,16.0
+2023,North Melbourne,Fremantle,15.464730290456432
+2023,North Melbourne,Port Adelaide,15.513661202185792
+2023,North Melbourne,Sydney,15.57391304347826
+2023,North Melbourne,Collingwood,15.705454545454545
+2023,North Melbourne,Greater Western Sydney,16.031304347826087
+2023,North Melbourne,Western Bulldogs,15.372050816696914
+2023,North Melbourne,Adelaide,14.969498910675382
+2023,North Melbourne,Gold Coast,15.82391304347826
+2023,North Melbourne,Carlton,15.694704049844237
+2023,North Melbourne,Geelong,15.581239530988274
+2023,North Melbourne,Brisbane Lions,15.658925979680697
+2023,North Melbourne,Richmond,16.069808027923212
+2023,Port Adelaide,Brisbane Lions,15.658925979680697
+2023,Port Adelaide,Collingwood,15.705454545454545
+2023,Port Adelaide,Adelaide,14.969498910675382
+2023,Port Adelaide,Sydney,15.57391304347826
+2023,Port Adelaide,Western Bulldogs,15.372050816696914
+2023,Port Adelaide,West Coast,16.592132505175982
+2023,Port Adelaide,St Kilda,16.60792079207921
+2023,Port Adelaide,Essendon,16.0
+2023,Port Adelaide,North Melbourne,16.65072765072765
+2023,Port Adelaide,Melbourne,15.75831873905429
+2023,Port Adelaide,Richmond,16.069808027923212
+2023,Port Adelaide,Hawthorn,15.886710239651416
+2023,Port Adelaide,Geelong,15.581239530988274
+2023,Port Adelaide,Gold Coast,15.82391304347826
+2023,Port Adelaide,Carlton,15.694704049844237
+2023,Port Adelaide,Greater Western Sydney,16.031304347826087
+2023,Port Adelaide,Fremantle,15.464730290456432
+2023,Richmond,Carlton,15.694704049844237
+2023,Richmond,Adelaide,14.969498910675382
+2023,Richmond,Collingwood,15.705454545454545
+2023,Richmond,Western Bulldogs,15.372050816696914
+2023,Richmond,Sydney,15.57391304347826
+2023,Richmond,Melbourne,15.75831873905429
+2023,Richmond,Gold Coast,15.82391304347826
+2023,Richmond,West Coast,16.592132505175982
+2023,Richmond,Geelong,15.581239530988274
+2023,Richmond,Essendon,16.0
+2023,Richmond,Port Adelaide,15.513661202185792
+2023,Richmond,Greater Western Sydney,16.031304347826087
+2023,Richmond,Fremantle,15.464730290456432
+2023,Richmond,St Kilda,16.60792079207921
+2023,Richmond,Brisbane Lions,15.658925979680697
+2023,Richmond,Hawthorn,15.886710239651416
+2023,Richmond,North Melbourne,16.65072765072765
+2023,St Kilda,Fremantle,15.464730290456432
+2023,St Kilda,Western Bulldogs,15.372050816696914
+2023,St Kilda,Essendon,16.0
+2023,St Kilda,Gold Coast,15.82391304347826
+2023,St Kilda,Collingwood,15.705454545454545
+2023,St Kilda,Carlton,15.694704049844237
+2023,St Kilda,Port Adelaide,15.513661202185792
+2023,St Kilda,North Melbourne,16.65072765072765
+2023,St Kilda,Adelaide,14.969498910675382
+2023,St Kilda,Greater Western Sydney,16.031304347826087
+2023,St Kilda,Hawthorn,15.886710239651416
+2023,St Kilda,Sydney,15.57391304347826
+2023,St Kilda,Richmond,16.069808027923212
+2023,St Kilda,Brisbane Lions,15.658925979680697
+2023,St Kilda,West Coast,16.592132505175982
+2023,St Kilda,Geelong,15.581239530988274
+2023,St Kilda,Melbourne,15.75831873905429
+2023,Sydney,Hawthorn,15.886710239651416
+2023,Sydney,Melbourne,15.75831873905429
+2023,Sydney,Port Adelaide,15.513661202185792
+2023,Sydney,Richmond,16.069808027923212
+2023,Sydney,St Kilda,16.60792079207921
+2023,Sydney,Brisbane Lions,15.658925979680697
+2023,Sydney,West Coast,16.592132505175982
+2023,Sydney,Geelong,15.581239530988274
+2023,Sydney,Western Bulldogs,15.372050816696914
+2023,Sydney,Fremantle,15.464730290456432
+2023,Sydney,Essendon,16.0
+2023,Sydney,Greater Western Sydney,16.031304347826087
+2023,Sydney,Gold Coast,15.82391304347826
+2023,Sydney,Carlton,15.694704049844237
+2023,Sydney,Collingwood,15.705454545454545
+2023,Sydney,North Melbourne,16.65072765072765
+2023,Sydney,Adelaide,14.969498910675382
+2023,West Coast,North Melbourne,16.65072765072765
+2023,West Coast,Greater Western Sydney,16.031304347826087
+2023,West Coast,Fremantle,15.464730290456432
+2023,West Coast,Melbourne,15.75831873905429
+2023,West Coast,Geelong,15.581239530988274
+2023,West Coast,Port Adelaide,15.513661202185792
+2023,West Coast,Carlton,15.694704049844237
+2023,West Coast,Richmond,16.069808027923212
+2023,West Coast,Gold Coast,15.82391304347826
+2023,West Coast,Hawthorn,15.886710239651416
+2023,West Coast,Essendon,16.0
+2023,West Coast,Collingwood,15.705454545454545
+2023,West Coast,Adelaide,14.969498910675382
+2023,West Coast,Sydney,15.57391304347826
+2023,West Coast,St Kilda,16.60792079207921
+2023,West Coast,Brisbane Lions,15.658925979680697
+2023,West Coast,Western Bulldogs,15.372050816696914
+2023,Western Bulldogs,Melbourne,15.75831873905429
+2023,Western Bulldogs,St Kilda,16.60792079207921
+2023,Western Bulldogs,Brisbane Lions,15.658925979680697
+2023,Western Bulldogs,Richmond,16.069808027923212
+2023,Western Bulldogs,Port Adelaide,15.513661202185792
+2023,Western Bulldogs,Fremantle,15.464730290456432
+2023,Western Bulldogs,Hawthorn,15.886710239651416
+2023,Western Bulldogs,Greater Western Sydney,16.031304347826087
+2023,Western Bulldogs,Carlton,15.694704049844237
+2023,Western Bulldogs,Adelaide,14.969498910675382
+2023,Western Bulldogs,Gold Coast,15.82391304347826
+2023,Western Bulldogs,Geelong,15.581239530988274
+2023,Western Bulldogs,North Melbourne,16.65072765072765
+2023,Western Bulldogs,Essendon,16.0
+2023,Western Bulldogs,West Coast,16.592132505175982
+2023,Western Bulldogs,Collingwood,15.705454545454545
+2023,Western Bulldogs,Sydney,15.57391304347826
+2024,Adelaide,Gold Coast,15.485838779956428
+2024,Adelaide,Geelong,15.963414634146341
+2024,Adelaide,Melbourne,15.919732441471572
+2024,Adelaide,Carlton,14.904181184668989
+2024,Adelaide,Essendon,15.459854014598541
+2024,Adelaide,West Coast,16.1356993736952
+2024,Adelaide,Hawthorn,15.013861386138613
+2024,Adelaide,Richmond,16.522686025408348
+2024,Adelaide,Sydney,15.530647985989493
+2024,Adelaide,Greater Western Sydney,15.235177865612648
+2024,Adelaide,Brisbane Lions,14.947122861586314
+2024,Adelaide,St Kilda,15.715415019762846
+2024,Adelaide,Western Bulldogs,15.056261343012704
+2024,Adelaide,Port Adelaide,14.915857605177994
+2024,Adelaide,Fremantle,15.056016597510373
+2024,Adelaide,North Melbourne,15.342323651452283
+2024,Adelaide,Collingwood,16.027826086956523
+2024,Carlton,Brisbane Lions,14.947122861586314
+2024,Carlton,Richmond,16.522686025408348
+2024,Carlton,North Melbourne,15.342323651452283
+2024,Carlton,Fremantle,15.056016597510373
+2024,Carlton,Adelaide,15.136116152450091
+2024,Carlton,Greater Western Sydney,15.235177865612648
+2024,Carlton,Geelong,15.963414634146341
+2024,Carlton,Collingwood,16.027826086956523
+2024,Carlton,Melbourne,15.919732441471572
+2024,Carlton,Sydney,15.530647985989493
+2024,Carlton,Gold Coast,15.485838779956428
+2024,Carlton,Port Adelaide,14.915857605177994
+2024,Carlton,Essendon,15.459854014598541
+2024,Carlton,Western Bulldogs,15.056261343012704
+2024,Carlton,Hawthorn,15.013861386138613
+2024,Carlton,West Coast,16.1356993736952
+2024,Carlton,St Kilda,15.715415019762846
+2024,Collingwood,Fremantle,15.056016597510373
+2024,Collingwood,Melbourne,15.919732441471572
+2024,Collingwood,West Coast,16.1356993736952
+2024,Collingwood,Western Bulldogs,15.056261343012704
+2024,Collingwood,Richmond,16.522686025408348
+2024,Collingwood,Carlton,14.904181184668989
+2024,Collingwood,Sydney,15.530647985989493
+2024,Collingwood,Brisbane Lions,14.947122861586314
+2024,Collingwood,Greater Western Sydney,15.235177865612648
+2024,Collingwood,St Kilda,15.715415019762846
+2024,Collingwood,Hawthorn,15.013861386138613
+2024,Collingwood,Port Adelaide,14.915857605177994
+2024,Collingwood,Essendon,15.459854014598541
+2024,Collingwood,Adelaide,15.136116152450091
+2024,Collingwood,North Melbourne,15.342323651452283
+2024,Collingwood,Gold Coast,15.485838779956428
+2024,Collingwood,Geelong,15.963414634146341
+2024,Essendon,Gold Coast,15.485838779956428
+2024,Essendon,Fremantle,15.056016597510373
+2024,Essendon,Sydney,15.530647985989493
+2024,Essendon,Brisbane Lions,14.947122861586314
+2024,Essendon,Richmond,16.522686025408348
+2024,Essendon,West Coast,16.1356993736952
+2024,Essendon,Collingwood,16.027826086956523
+2024,Essendon,Melbourne,15.919732441471572
+2024,Essendon,Adelaide,15.136116152450091
+2024,Essendon,St Kilda,15.715415019762846
+2024,Essendon,Hawthorn,15.013861386138613
+2024,Essendon,Port Adelaide,14.915857605177994
+2024,Essendon,Western Bulldogs,15.056261343012704
+2024,Essendon,Greater Western Sydney,15.235177865612648
+2024,Essendon,North Melbourne,15.342323651452283
+2024,Essendon,Carlton,14.904181184668989
+2024,Essendon,Geelong,15.963414634146341
+2024,Fremantle,Brisbane Lions,14.947122861586314
+2024,Fremantle,North Melbourne,15.342323651452283
+2024,Fremantle,Adelaide,15.136116152450091
+2024,Fremantle,Carlton,14.904181184668989
+2024,Fremantle,Port Adelaide,14.915857605177994
+2024,Fremantle,West Coast,16.1356993736952
+2024,Fremantle,Western Bulldogs,15.056261343012704
+2024,Fremantle,Richmond,16.522686025408348
+2024,Fremantle,Sydney,15.530647985989493
+2024,Fremantle,St Kilda,15.715415019762846
+2024,Fremantle,Collingwood,16.027826086956523
+2024,Fremantle,Melbourne,15.919732441471572
+2024,Fremantle,Gold Coast,15.485838779956428
+2024,Fremantle,Hawthorn,15.013861386138613
+2024,Fremantle,Essendon,15.459854014598541
+2024,Fremantle,Geelong,15.963414634146341
+2024,Fremantle,Greater Western Sydney,15.235177865612648
+2024,Geelong,St Kilda,15.715415019762846
+2024,Geelong,Hawthorn,15.013861386138613
+2024,Geelong,Western Bulldogs,15.056261343012704
+2024,Geelong,North Melbourne,15.342323651452283
+2024,Geelong,Brisbane Lions,14.947122861586314
+2024,Geelong,Carlton,14.904181184668989
+2024,Geelong,Melbourne,15.919732441471572
+2024,Geelong,Port Adelaide,14.915857605177994
+2024,Geelong,Gold Coast,15.485838779956428
+2024,Geelong,Greater Western Sydney,15.235177865612648
+2024,Geelong,Richmond,16.522686025408348
+2024,Geelong,Sydney,15.530647985989493
+2024,Geelong,Essendon,15.459854014598541
+2024,Geelong,Collingwood,16.027826086956523
+2024,Geelong,Adelaide,15.136116152450091
+2024,Geelong,Fremantle,15.056016597510373
+2024,Geelong,West Coast,16.1356993736952
+2024,Gold Coast,Richmond,16.522686025408348
+2024,Gold Coast,Adelaide,15.136116152450091
+2024,Gold Coast,Western Bulldogs,15.056261343012704
+2024,Gold Coast,Greater Western Sydney,15.235177865612648
+2024,Gold Coast,Hawthorn,15.013861386138613
+2024,Gold Coast,Sydney,15.530647985989493
+2024,Gold Coast,West Coast,16.1356993736952
+2024,Gold Coast,Brisbane Lions,14.947122861586314
+2024,Gold Coast,North Melbourne,15.342323651452283
+2024,Gold Coast,Geelong,15.963414634146341
+2024,Gold Coast,Carlton,14.904181184668989
+2024,Gold Coast,Essendon,15.459854014598541
+2024,Gold Coast,St Kilda,15.715415019762846
+2024,Gold Coast,Fremantle,15.056016597510373
+2024,Gold Coast,Collingwood,16.027826086956523
+2024,Gold Coast,Port Adelaide,14.915857605177994
+2024,Gold Coast,Melbourne,15.919732441471572
+2024,Hawthorn,Essendon,15.459854014598541
+2024,Hawthorn,Melbourne,15.919732441471572
+2024,Hawthorn,Geelong,15.963414634146341
+2024,Hawthorn,Collingwood,16.027826086956523
+2024,Hawthorn,Gold Coast,15.485838779956428
+2024,Hawthorn,North Melbourne,15.342323651452283
+2024,Hawthorn,Sydney,15.530647985989493
+2024,Hawthorn,Western Bulldogs,15.056261343012704
+2024,Hawthorn,St Kilda,15.715415019762846
+2024,Hawthorn,Port Adelaide,14.915857605177994
+2024,Hawthorn,Brisbane Lions,14.947122861586314
+2024,Hawthorn,Adelaide,15.136116152450091
+2024,Hawthorn,Greater Western Sydney,15.235177865612648
+2024,Hawthorn,Richmond,16.522686025408348
+2024,Hawthorn,West Coast,16.1356993736952
+2024,Hawthorn,Fremantle,15.056016597510373
+2024,Hawthorn,Carlton,14.904181184668989
+2024,Melbourne,Sydney,15.530647985989493
+2024,Melbourne,Western Bulldogs,15.056261343012704
+2024,Melbourne,Hawthorn,15.013861386138613
+2024,Melbourne,Port Adelaide,14.915857605177994
+2024,Melbourne,Adelaide,15.136116152450091
+2024,Melbourne,Brisbane Lions,14.947122861586314
+2024,Melbourne,Richmond,16.522686025408348
+2024,Melbourne,Geelong,15.963414634146341
+2024,Melbourne,Carlton,14.904181184668989
+2024,Melbourne,West Coast,16.1356993736952
+2024,Melbourne,Collingwood,16.027826086956523
+2024,Melbourne,Fremantle,15.056016597510373
+2024,Melbourne,Greater Western Sydney,15.235177865612648
+2024,Melbourne,Gold Coast,15.485838779956428
+2024,Melbourne,St Kilda,15.715415019762846
+2024,Melbourne,North Melbourne,15.342323651452283
+2024,Melbourne,Essendon,15.459854014598541
+2024,North Melbourne,St Kilda,15.715415019762846
+2024,North Melbourne,Gold Coast,15.485838779956428
+2024,North Melbourne,Port Adelaide,14.915857605177994
+2024,North Melbourne,West Coast,16.1356993736952
+2024,North Melbourne,Collingwood,16.027826086956523
+2024,North Melbourne,Melbourne,15.919732441471572
+2024,North Melbourne,Western Bulldogs,15.056261343012704
+2024,North Melbourne,Sydney,15.530647985989493
+2024,North Melbourne,Carlton,14.904181184668989
+2024,North Melbourne,Geelong,15.963414634146341
+2024,North Melbourne,Richmond,16.522686025408348
+2024,North Melbourne,Hawthorn,15.013861386138613
+2024,North Melbourne,Essendon,15.459854014598541
+2024,North Melbourne,Greater Western Sydney,15.235177865612648
+2024,North Melbourne,Fremantle,15.056016597510373
+2024,North Melbourne,Brisbane Lions,14.947122861586314
+2024,North Melbourne,Adelaide,15.136116152450091
+2024,Port Adelaide,West Coast,16.1356993736952
+2024,Port Adelaide,Richmond,16.522686025408348
+2024,Port Adelaide,Melbourne,15.919732441471572
+2024,Port Adelaide,Essendon,15.459854014598541
+2024,Port Adelaide,Fremantle,15.056016597510373
+2024,Port Adelaide,Collingwood,16.027826086956523
+2024,Port Adelaide,St Kilda,15.715415019762846
+2024,Port Adelaide,Geelong,15.963414634146341
+2024,Port Adelaide,Hawthorn,15.013861386138613
+2024,Port Adelaide,North Melbourne,15.342323651452283
+2024,Port Adelaide,Carlton,14.904181184668989
+2024,Port Adelaide,Greater Western Sydney,15.235177865612648
+2024,Port Adelaide,Brisbane Lions,14.947122861586314
+2024,Port Adelaide,Western Bulldogs,15.056261343012704
+2024,Port Adelaide,Gold Coast,15.485838779956428
+2024,Port Adelaide,Sydney,15.530647985989493
+2024,Port Adelaide,Adelaide,15.136116152450091
+2024,Richmond,Gold Coast,15.485838779956428
+2024,Richmond,Carlton,14.904181184668989
+2024,Richmond,Port Adelaide,14.915857605177994
+2024,Richmond,Sydney,15.530647985989493
+2024,Richmond,West Coast,16.1356993736952
+2024,Richmond,Melbourne,15.919732441471572
+2024,Richmond,Fremantle,15.056016597510373
+2024,Richmond,Essendon,15.459854014598541
+2024,Richmond,Geelong,15.963414634146341
+2024,Richmond,Adelaide,15.136116152450091
+2024,Richmond,Hawthorn,15.013861386138613
+2024,Richmond,Greater Western Sydney,15.235177865612648
+2024,Richmond,Collingwood,16.027826086956523
+2024,Richmond,North Melbourne,15.342323651452283
+2024,Richmond,Western Bulldogs,15.056261343012704
+2024,Richmond,Brisbane Lions,14.947122861586314
+2024,Richmond,St Kilda,15.715415019762846
+2024,St Kilda,Geelong,15.963414634146341
+2024,St Kilda,Collingwood,16.027826086956523
+2024,St Kilda,Essendon,15.459854014598541
+2024,St Kilda,Richmond,16.522686025408348
+2024,St Kilda,Greater Western Sydney,15.235177865612648
+2024,St Kilda,Western Bulldogs,15.056261343012704
+2024,St Kilda,Port Adelaide,14.915857605177994
+2024,St Kilda,North Melbourne,15.342323651452283
+2024,St Kilda,Hawthorn,15.013861386138613
+2024,St Kilda,Fremantle,15.056016597510373
+2024,St Kilda,Melbourne,15.919732441471572
+2024,St Kilda,West Coast,16.1356993736952
+2024,St Kilda,Gold Coast,15.485838779956428
+2024,St Kilda,Brisbane Lions,14.947122861586314
+2024,St Kilda,Sydney,15.530647985989493
+2024,St Kilda,Adelaide,15.136116152450091
+2024,St Kilda,Carlton,14.904181184668989
+2024,Sydney,West Coast,16.1356993736952
+2024,Sydney,Gold Coast,15.485838779956428
+2024,Sydney,Hawthorn,15.013861386138613
+2024,Sydney,Greater Western Sydney,15.235177865612648
+2024,Sydney,Fremantle,15.056016597510373
+2024,Sydney,Carlton,14.904181184668989
+2024,Sydney,Western Bulldogs,15.056261343012704
+2024,Sydney,Geelong,15.963414634146341
+2024,Sydney,Adelaide,15.136116152450091
+2024,Sydney,St Kilda,15.715415019762846
+2024,Sydney,North Melbourne,15.342323651452283
+2024,Sydney,Brisbane Lions,14.947122861586314
+2024,Sydney,Port Adelaide,14.915857605177994
+2024,Sydney,Collingwood,16.027826086956523
+2024,Sydney,Essendon,15.459854014598541
+2024,Sydney,Melbourne,15.919732441471572
+2024,Sydney,Richmond,16.522686025408348
+2024,West Coast,Port Adelaide,14.915857605177994
+2024,West Coast,Essendon,15.459854014598541
+2024,West Coast,Hawthorn,15.013861386138613
+2024,West Coast,Melbourne,15.919732441471572
+2024,West Coast,Brisbane Lions,14.947122861586314
+2024,West Coast,St Kilda,15.715415019762846
+2024,West Coast,Fremantle,15.056016597510373
+2024,West Coast,Gold Coast,15.485838779956428
+2024,West Coast,North Melbourne,15.342323651452283
+2024,West Coast,Carlton,14.904181184668989
+2024,West Coast,Geelong,15.963414634146341
+2024,West Coast,Greater Western Sydney,15.235177865612648
+2024,West Coast,Western Bulldogs,15.056261343012704
+2024,West Coast,Sydney,15.530647985989493
+2024,West Coast,Richmond,16.522686025408348
+2024,West Coast,Collingwood,16.027826086956523
+2024,West Coast,Adelaide,15.136116152450091
+2024,Western Bulldogs,Gold Coast,15.485838779956428
+2024,Western Bulldogs,West Coast,16.1356993736952
+2024,Western Bulldogs,Geelong,15.963414634146341
+2024,Western Bulldogs,Essendon,15.459854014598541
+2024,Western Bulldogs,Hawthorn,15.013861386138613
+2024,Western Bulldogs,North Melbourne,15.342323651452283
+2024,Western Bulldogs,Melbourne,15.919732441471572
+2024,Western Bulldogs,St Kilda,15.715415019762846
+2024,Western Bulldogs,Fremantle,15.056016597510373
+2024,Western Bulldogs,Richmond,16.522686025408348
+2024,Western Bulldogs,Greater Western Sydney,15.235177865612648
+2024,Western Bulldogs,Sydney,15.530647985989493
+2024,Western Bulldogs,Collingwood,16.027826086956523
+2024,Western Bulldogs,Brisbane Lions,14.947122861586314
+2024,Western Bulldogs,Port Adelaide,14.915857605177994
+2024,Western Bulldogs,Carlton,14.904181184668989
+2024,Western Bulldogs,Adelaide,15.136116152450091
+2025,Adelaide,Greater Western Sydney,14.890243902439025
+2025,Adelaide,Carlton,15.47258064516129
+2025,Adelaide,Port Adelaide,15.421252371916509
+2025,Adelaide,Collingwood,15.603260869565217
+2025,Adelaide,West Coast,16.017391304347825
+2025,Adelaide,Sydney,15.087145969498911
+2025,Adelaide,Brisbane Lions,15.106927710843374
+2025,Adelaide,Hawthorn,14.746105919003115
+2025,Adelaide,Richmond,17.24
+2025,Adelaide,Melbourne,15.606719367588934
+2025,Adelaide,Western Bulldogs,15.231499051233397
+2025,Adelaide,Gold Coast,15.105809128630705
+2025,Adelaide,North Melbourne,15.274285714285714
+2025,Adelaide,St Kilda,15.242063492063492
+2025,Adelaide,Essendon,16.29145728643216
+2025,Adelaide,Geelong,15.470238095238095
+2025,Adelaide,Fremantle,15.149090909090908
+2025,Carlton,Richmond,17.24
+2025,Carlton,Hawthorn,14.746105919003115
+2025,Carlton,Western Bulldogs,15.231499051233397
+2025,Carlton,Collingwood,15.603260869565217
+2025,Carlton,North Melbourne,15.274285714285714
+2025,Carlton,Geelong,15.470238095238095
+2025,Carlton,Adelaide,14.710144927536232
+2025,Carlton,St Kilda,15.242063492063492
+2025,Carlton,Greater Western Sydney,14.890243902439025
+2025,Carlton,Essendon,16.29145728643216
+2025,Carlton,West Coast,16.017391304347825
+2025,Carlton,Port Adelaide,15.421252371916509
+2025,Carlton,Fremantle,15.149090909090908
+2025,Carlton,Gold Coast,15.105809128630705
+2025,Carlton,Sydney,15.087145969498911
+2025,Carlton,Brisbane Lions,15.106927710843374
+2025,Carlton,Melbourne,15.606719367588934
+2025,Collingwood,Greater Western Sydney,14.890243902439025
+2025,Collingwood,Sydney,15.087145969498911
+2025,Collingwood,Brisbane Lions,15.106927710843374
+2025,Collingwood,Fremantle,15.149090909090908
+2025,Collingwood,Adelaide,14.710144927536232
+2025,Collingwood,North Melbourne,15.274285714285714
+2025,Collingwood,Hawthorn,14.746105919003115
+2025,Collingwood,Melbourne,15.606719367588934
+2025,Collingwood,St Kilda,15.242063492063492
+2025,Collingwood,West Coast,16.017391304347825
+2025,Collingwood,Richmond,17.24
+2025,Collingwood,Port Adelaide,15.421252371916509
+2025,Collingwood,Western Bulldogs,15.231499051233397
+2025,Collingwood,Carlton,15.47258064516129
+2025,Collingwood,Essendon,16.29145728643216
+2025,Collingwood,Geelong,15.470238095238095
+2025,Collingwood,Gold Coast,15.105809128630705
+2025,Essendon,Geelong,15.470238095238095
+2025,Essendon,Fremantle,15.149090909090908
+2025,Essendon,Gold Coast,15.105809128630705
+2025,Essendon,Richmond,17.24
+2025,Essendon,Greater Western Sydney,14.890243902439025
+2025,Essendon,Western Bulldogs,15.231499051233397
+2025,Essendon,Sydney,15.087145969498911
+2025,Essendon,St Kilda,15.242063492063492
+2025,Essendon,Carlton,15.47258064516129
+2025,Essendon,Hawthorn,14.746105919003115
+2025,Essendon,Adelaide,14.710144927536232
+2025,Essendon,Port Adelaide,15.421252371916509
+2025,Essendon,Melbourne,15.606719367588934
+2025,Essendon,West Coast,16.017391304347825
+2025,Essendon,Collingwood,15.603260869565217
+2025,Essendon,North Melbourne,15.274285714285714
+2025,Essendon,Brisbane Lions,15.106927710843374
+2025,Fremantle,West Coast,16.017391304347825
+2025,Fremantle,Melbourne,15.606719367588934
+2025,Fremantle,Essendon,16.29145728643216
+2025,Fremantle,Geelong,15.470238095238095
+2025,Fremantle,Sydney,15.087145969498911
+2025,Fremantle,Western Bulldogs,15.231499051233397
+2025,Fremantle,Richmond,17.24
+2025,Fremantle,Adelaide,14.710144927536232
+2025,Fremantle,St Kilda,15.242063492063492
+2025,Fremantle,Collingwood,15.603260869565217
+2025,Fremantle,Greater Western Sydney,14.890243902439025
+2025,Fremantle,Port Adelaide,15.421252371916509
+2025,Fremantle,Gold Coast,15.105809128630705
+2025,Fremantle,North Melbourne,15.274285714285714
+2025,Fremantle,Hawthorn,14.746105919003115
+2025,Fremantle,Carlton,15.47258064516129
+2025,Fremantle,Brisbane Lions,15.106927710843374
+2025,Geelong,Fremantle,15.149090909090908
+2025,Geelong,St Kilda,15.242063492063492
+2025,Geelong,Brisbane Lions,15.106927710843374
+2025,Geelong,Melbourne,15.606719367588934
+2025,Geelong,Adelaide,14.710144927536232
+2025,Geelong,Hawthorn,14.746105919003115
+2025,Geelong,Carlton,15.47258064516129
+2025,Geelong,Collingwood,15.603260869565217
+2025,Geelong,Greater Western Sydney,14.890243902439025
+2025,Geelong,Port Adelaide,15.421252371916509
+2025,Geelong,Western Bulldogs,15.231499051233397
+2025,Geelong,West Coast,16.017391304347825
+2025,Geelong,Gold Coast,15.105809128630705
+2025,Geelong,Essendon,16.29145728643216
+2025,Geelong,Richmond,17.24
+2025,Geelong,North Melbourne,15.274285714285714
+2025,Geelong,Sydney,15.087145969498911
+2025,Gold Coast,Essendon,16.29145728643216
+2025,Gold Coast,Collingwood,15.603260869565217
+2025,Gold Coast,Adelaide,14.710144927536232
+2025,Gold Coast,Brisbane Lions,15.106927710843374
+2025,Gold Coast,Richmond,17.24
+2025,Gold Coast,Carlton,15.47258064516129
+2025,Gold Coast,Greater Western Sydney,14.890243902439025
+2025,Gold Coast,Port Adelaide,15.421252371916509
+2025,Gold Coast,Fremantle,15.149090909090908
+2025,Gold Coast,West Coast,16.017391304347825
+2025,Gold Coast,North Melbourne,15.274285714285714
+2025,Gold Coast,Sydney,15.087145969498911
+2025,Gold Coast,Western Bulldogs,15.231499051233397
+2025,Gold Coast,Hawthorn,14.746105919003115
+2025,Gold Coast,St Kilda,15.242063492063492
+2025,Gold Coast,Geelong,15.470238095238095
+2025,Gold Coast,Melbourne,15.606719367588934
+2025,Hawthorn,Sydney,15.087145969498911
+2025,Hawthorn,Essendon,16.29145728643216
+2025,Hawthorn,Carlton,15.47258064516129
+2025,Hawthorn,Greater Western Sydney,14.890243902439025
+2025,Hawthorn,Port Adelaide,15.421252371916509
+2025,Hawthorn,Geelong,15.470238095238095
+2025,Hawthorn,West Coast,16.017391304347825
+2025,Hawthorn,Melbourne,15.606719367588934
+2025,Hawthorn,Gold Coast,15.105809128630705
+2025,Hawthorn,Brisbane Lions,15.106927710843374
+2025,Hawthorn,Collingwood,15.603260869565217
+2025,Hawthorn,Western Bulldogs,15.231499051233397
+2025,Hawthorn,Adelaide,14.710144927536232
+2025,Hawthorn,North Melbourne,15.274285714285714
+2025,Hawthorn,St Kilda,15.242063492063492
+2025,Hawthorn,Fremantle,15.149090909090908
+2025,Hawthorn,Richmond,17.24
+2025,Melbourne,Western Bulldogs,15.231499051233397
+2025,Melbourne,Gold Coast,15.105809128630705
+2025,Melbourne,Greater Western Sydney,14.890243902439025
+2025,Melbourne,North Melbourne,15.274285714285714
+2025,Melbourne,Geelong,15.470238095238095
+2025,Melbourne,Essendon,16.29145728643216
+2025,Melbourne,Fremantle,15.149090909090908
+2025,Melbourne,Richmond,17.24
+2025,Melbourne,West Coast,16.017391304347825
+2025,Melbourne,Hawthorn,14.746105919003115
+2025,Melbourne,Brisbane Lions,15.106927710843374
+2025,Melbourne,Sydney,15.087145969498911
+2025,Melbourne,St Kilda,15.242063492063492
+2025,Melbourne,Collingwood,15.603260869565217
+2025,Melbourne,Port Adelaide,15.421252371916509
+2025,Melbourne,Adelaide,14.710144927536232
+2025,Melbourne,Carlton,15.47258064516129
+2025,North Melbourne,Western Bulldogs,15.231499051233397
+2025,North Melbourne,Port Adelaide,15.421252371916509
+2025,North Melbourne,Essendon,16.29145728643216
+2025,North Melbourne,Sydney,15.087145969498911
+2025,North Melbourne,Geelong,15.470238095238095
+2025,North Melbourne,St Kilda,15.242063492063492
+2025,North Melbourne,Adelaide,14.710144927536232
+2025,North Melbourne,Melbourne,15.606719367588934
+2025,North Melbourne,Gold Coast,15.105809128630705
+2025,North Melbourne,Carlton,15.47258064516129
+2025,North Melbourne,Brisbane Lions,15.106927710843374
+2025,North Melbourne,Richmond,17.24
+2025,North Melbourne,Collingwood,15.603260869565217
+2025,North Melbourne,West Coast,16.017391304347825
+2025,North Melbourne,Greater Western Sydney,14.890243902439025
+2025,North Melbourne,Fremantle,15.149090909090908
+2025,North Melbourne,Hawthorn,14.746105919003115
+2025,Port Adelaide,Collingwood,15.603260869565217
+2025,Port Adelaide,Richmond,17.24
+2025,Port Adelaide,Essendon,16.29145728643216
+2025,Port Adelaide,St Kilda,15.242063492063492
+2025,Port Adelaide,Hawthorn,14.746105919003115
+2025,Port Adelaide,Sydney,15.087145969498911
+2025,Port Adelaide,North Melbourne,15.274285714285714
+2025,Port Adelaide,Western Bulldogs,15.231499051233397
+2025,Port Adelaide,Adelaide,14.710144927536232
+2025,Port Adelaide,Geelong,15.470238095238095
+2025,Port Adelaide,Fremantle,15.149090909090908
+2025,Port Adelaide,Greater Western Sydney,14.890243902439025
+2025,Port Adelaide,Melbourne,15.606719367588934
+2025,Port Adelaide,Carlton,15.47258064516129
+2025,Port Adelaide,Brisbane Lions,15.106927710843374
+2025,Port Adelaide,West Coast,16.017391304347825
+2025,Port Adelaide,Gold Coast,15.105809128630705
+2025,Richmond,Western Bulldogs,15.231499051233397
+2025,Richmond,Adelaide,14.710144927536232
+2025,Richmond,Geelong,15.470238095238095
+2025,Richmond,Collingwood,15.603260869565217
+2025,Richmond,Carlton,15.47258064516129
+2025,Richmond,Port Adelaide,15.421252371916509
+2025,Richmond,St Kilda,15.242063492063492
+2025,Richmond,Brisbane Lions,15.106927710843374
+2025,Richmond,Gold Coast,15.105809128630705
+2025,Richmond,North Melbourne,15.274285714285714
+2025,Richmond,Hawthorn,14.746105919003115
+2025,Richmond,West Coast,16.017391304347825
+2025,Richmond,Sydney,15.087145969498911
+2025,Richmond,Fremantle,15.149090909090908
+2025,Richmond,Melbourne,15.606719367588934
+2025,Richmond,Essendon,16.29145728643216
+2025,Richmond,Greater Western Sydney,14.890243902439025
+2025,St Kilda,Fremantle,15.149090909090908
+2025,St Kilda,Carlton,15.47258064516129
+2025,St Kilda,Gold Coast,15.105809128630705
+2025,St Kilda,Melbourne,15.606719367588934
+2025,St Kilda,Sydney,15.087145969498911
+2025,St Kilda,Geelong,15.470238095238095
+2025,St Kilda,North Melbourne,15.274285714285714
+2025,St Kilda,Richmond,17.24
+2025,St Kilda,Essendon,16.29145728643216
+2025,St Kilda,Greater Western Sydney,14.890243902439025
+2025,St Kilda,Adelaide,14.710144927536232
+2025,St Kilda,Western Bulldogs,15.231499051233397
+2025,St Kilda,Collingwood,15.603260869565217
+2025,St Kilda,Hawthorn,14.746105919003115
+2025,St Kilda,Port Adelaide,15.421252371916509
+2025,St Kilda,Brisbane Lions,15.106927710843374
+2025,St Kilda,West Coast,16.017391304347825
+2025,Sydney,Hawthorn,14.746105919003115
+2025,Sydney,Melbourne,15.606719367588934
+2025,Sydney,Adelaide,14.710144927536232
+2025,Sydney,Richmond,17.24
+2025,Sydney,Brisbane Lions,15.106927710843374
+2025,Sydney,Fremantle,15.149090909090908
+2025,Sydney,North Melbourne,15.274285714285714
+2025,Sydney,Collingwood,15.603260869565217
+2025,Sydney,Carlton,15.47258064516129
+2025,Sydney,Port Adelaide,15.421252371916509
+2025,Sydney,Gold Coast,15.105809128630705
+2025,Sydney,Greater Western Sydney,14.890243902439025
+2025,Sydney,Essendon,16.29145728643216
+2025,Sydney,St Kilda,15.242063492063492
+2025,Sydney,West Coast,16.017391304347825
+2025,Sydney,Western Bulldogs,15.231499051233397
+2025,Sydney,Geelong,15.470238095238095
+2025,West Coast,Melbourne,15.606719367588934
+2025,West Coast,Geelong,15.470238095238095
+2025,West Coast,Carlton,15.47258064516129
+2025,West Coast,Collingwood,15.603260869565217
+2025,West Coast,Greater Western Sydney,14.890243902439025
+2025,West Coast,Gold Coast,15.105809128630705
+2025,West Coast,Brisbane Lions,15.106927710843374
+2025,West Coast,Fremantle,15.149090909090908
+2025,West Coast,Hawthorn,14.746105919003115
+2025,West Coast,St Kilda,15.242063492063492
+2025,West Coast,Adelaide,14.710144927536232
+2025,West Coast,North Melbourne,15.274285714285714
+2025,West Coast,Essendon,16.29145728643216
+2025,West Coast,Richmond,17.24
+2025,West Coast,Port Adelaide,15.421252371916509
+2025,West Coast,Western Bulldogs,15.231499051233397
+2025,West Coast,Sydney,15.087145969498911
+2025,Western Bulldogs,Collingwood,15.603260869565217
+2025,Western Bulldogs,Carlton,15.47258064516129
+2025,Western Bulldogs,Fremantle,15.149090909090908
+2025,Western Bulldogs,Geelong,15.470238095238095
+2025,Western Bulldogs,Essendon,16.29145728643216
+2025,Western Bulldogs,Greater Western Sydney,14.890243902439025
+2025,Western Bulldogs,Melbourne,15.606719367588934
+2025,Western Bulldogs,West Coast,16.017391304347825
+2025,Western Bulldogs,St Kilda,15.242063492063492
+2025,Western Bulldogs,Port Adelaide,15.421252371916509
+2025,Western Bulldogs,Gold Coast,15.105809128630705
+2025,Western Bulldogs,Hawthorn,14.746105919003115
+2025,Western Bulldogs,Richmond,17.24
+2025,Western Bulldogs,Sydney,15.087145969498911
+2025,Western Bulldogs,North Melbourne,15.274285714285714
+2025,Western Bulldogs,Adelaide,14.710144927536232
+2025,Western Bulldogs,Brisbane Lions,15.106927710843374

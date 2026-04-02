@@ -1,0 +1,46 @@
+# Virtual environment
+venv/
+ENV/
+env/
+.venv
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# IDE / OS
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files and logs
+tmp_*
+*.log
+outputs/
+data/raw/
+data/external/
+
+# Secrets
+.env
+.env.local
+.env.*.local
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Misc
+.cache/
+.session
+
